@@ -1,0 +1,317 @@
+{
+  "vendor_id": "V001",
+  "vendor_name": "Apex Creative Co.",
+  "extraction_timestamp": "2026-07-03T00:00:00Z",
+  "scope_coverage": {
+    "line_items": [
+      {
+        "id": 1,
+        "name": "Strategy and creative development",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 RFQ line items, but no line-item-specific detail is provided.",
+        "status": "partial",
+        "evidence": "covering all 8 line items in the RFQ.",
+        "flags": [
+          "No line-item-specific scope detail provided"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "TVC development",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 RFQ line items, but no line-item-specific detail is provided.",
+        "status": "partial",
+        "evidence": "covering all 8 line items in the RFQ.",
+        "flags": [
+          "No line-item-specific scope detail provided"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "TVC production",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 RFQ line items, but no line-item-specific detail is provided.",
+        "status": "partial",
+        "evidence": "covering all 8 line items in the RFQ.",
+        "flags": [
+          "No line-item-specific scope detail provided"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Social organic content (60 posts/month requested)",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 RFQ line items, but no line-item-specific detail is provided and no confirmation of 60 posts/month is stated.",
+        "status": "partial",
+        "evidence": "covering all 8 line items in the RFQ.",
+        "flags": [
+          "No line-item-specific scope detail provided",
+          "Requested volume of 60 posts/month not explicitly confirmed"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Social paid media planning",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 RFQ line items, but no line-item-specific detail is provided.",
+        "status": "partial",
+        "evidence": "covering all 8 line items in the RFQ.",
+        "flags": [
+          "No line-item-specific scope detail provided"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Social paid media buying and optimization",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 RFQ line items, but pricing explicitly excludes media buying commission.",
+        "status": "partial",
+        "evidence": "Our proposed investment: INR 4,20,00,000 (excluding GST and media buying commission), covering all 8 line items in the RFQ.",
+        "flags": [
+          "Media buying commission excluded",
+          "No line-item-specific scope detail provided"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Kids advertising and claims compliance review (ASCI + FSSAI required)",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 line items and mentions regulatory navigation capability, but does not explicitly confirm ASCI and FSSAI review deliverables.",
+        "status": "partial",
+        "evidence": "With 18 years in FMCG marketing — including breakthrough campaigns for Nestle India, Britannia, Marico, and Dabur — we bring deep category knowledge and proven regulatory navigation capability to this mandate.",
+        "flags": [
+          "ASCI review not explicitly confirmed",
+          "FSSAI review not explicitly confirmed",
+          "No named compliance reviewer"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Launch program management",
+        "covered": true,
+        "detail": "Vendor states the proposal covers all 8 RFQ line items, but no line-item-specific detail is provided.",
+        "status": "partial",
+        "evidence": "covering all 8 line items in the RFQ.",
+        "flags": [
+          "No line-item-specific scope detail provided"
+        ]
+      }
+    ],
+    "overall_coverage_score": "100",
+    "uncovered_items": []
+  },
+  "pricing": {
+    "total_stated": "INR 4,20,00,000",
+    "currency": "INR",
+    "includes_gst": false,
+    "itemized": [],
+    "itemized_total": null,
+    "consistency_check": "PARTIAL",
+    "consistency_note": "A total investment is stated, but no itemized pricing is provided and media buying commission is excluded.",
+    "status": "partial",
+    "evidence": "Our proposed investment: INR 4,20,00,000 (excluding GST and media buying commission), covering all 8 line items in the RFQ.",
+    "flags": [
+      "GST excluded",
+      "Media buying commission excluded",
+      "No itemized pricing by line item",
+      "Potential hidden cost for media buying commission"
+    ]
+  },
+  "commercial_terms": {
+    "payment_terms": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "proposal_validity": {
+      "value": "90 days",
+      "status": "present",
+      "evidence": "Validity: 90 days"
+    },
+    "gst_treatment": {
+      "value": "Excluding GST",
+      "status": "present",
+      "evidence": "excluding GST and media buying commission"
+    },
+    "escalation_clause": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "flags": [
+      "No payment terms stated",
+      "No escalation clause stated"
+    ]
+  },
+  "timeline": {
+    "proposed_kickoff": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "campaign_go_live": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "total_duration": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "consistency_check": "UNKNOWN",
+    "consistency_note": "No timeline information provided in the extracted vendor response.",
+    "flags": [
+      "No kickoff date",
+      "No go-live date",
+      "No campaign duration"
+    ]
+  },
+  "team_and_experience": {
+    "key_personnel": [],
+    "team_size_claimed": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "kids_category_experience": {
+      "value": "Vendor claims deep category knowledge and proven regulatory navigation capability, but does not explicitly state kids-category experience.",
+      "status": "partial",
+      "evidence": "we bring deep category knowledge and proven regulatory navigation capability to this mandate."
+    },
+    "relevant_clients": [
+      "Nestle India",
+      "Britannia",
+      "Marico",
+      "Dabur"
+    ],
+    "flags": [
+      "No key personnel named",
+      "No team size stated",
+      "Kids-category experience not explicitly stated"
+    ]
+  },
+  "compliance": {
+    "asci_kids_code": {
+      "value": null,
+      "status": "missing",
+      "evidence": null,
+      "detail_level": "none"
+    },
+    "fssai_health_claims": {
+      "value": null,
+      "status": "missing",
+      "evidence": null,
+      "detail_level": "none"
+    },
+    "platform_policies": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "compliance_reviewer_named": false,
+    "flags": [
+      "ASCI kids code compliance not explicitly addressed",
+      "FSSAI health claims compliance not explicitly addressed",
+      "No platform policy compliance statement",
+      "No compliance reviewer named",
+      "Only generic regulatory capability claim provided"
+    ]
+  },
+  "assumptions": {
+    "listed": [],
+    "status": "missing",
+    "count": 0
+  },
+  "exclusions": {
+    "listed": [
+      "GST",
+      "media buying commission"
+    ],
+    "hidden_costs_detected": [
+      "Media buying commission excluded from proposed investment"
+    ],
+    "status": "present"
+  },
+  "risks": [
+    {
+      "risk": "No itemized pricing by line item, limiting cost evaluation against RFQ scope.",
+      "severity": "high",
+      "category": "commercial",
+      "evidence": "Our proposed investment: INR 4,20,00,000 (excluding GST and media buying commission), covering all 8 line items in the RFQ."
+    },
+    {
+      "risk": "Media buying commission is excluded, creating additional cost exposure for paid media scope.",
+      "severity": "high",
+      "category": "commercial",
+      "evidence": "excluding GST and media buying commission"
+    },
+    {
+      "risk": "Compliance scope for ASCI and FSSAI is not explicitly confirmed despite RFQ requirement.",
+      "severity": "high",
+      "category": "compliance",
+      "evidence": "we bring deep category knowledge and proven regulatory navigation capability to this mandate."
+    },
+    {
+      "risk": "No timeline, kickoff, or go-live dates are provided.",
+      "severity": "medium",
+      "category": "timeline",
+      "evidence": null
+    },
+    {
+      "risk": "No key personnel or team structure is provided.",
+      "severity": "medium",
+      "category": "team",
+      "evidence": null
+    },
+    {
+      "risk": "Line-item coverage is claimed globally but not described in detail, creating scope ambiguity.",
+      "severity": "medium",
+      "category": "scope",
+      "evidence": "covering all 8 line items in the RFQ."
+    }
+  ],
+  "missing_info": [
+    "Payment terms",
+    "Itemized pricing by line item",
+    "Escalation clause",
+    "Kickoff date",
+    "Campaign go-live date",
+    "Total campaign duration",
+    "Key personnel names",
+    "Team size",
+    "Explicit ASCI kids advertising compliance approach",
+    "Explicit FSSAI health claims compliance approach",
+    "Platform policy compliance approach",
+    "Named compliance reviewer",
+    "Assumptions",
+    "Detailed scope by line item",
+    "Confirmation of 60 social organic posts/month"
+  ],
+  "unclear_info": [
+    "Whether media buying and optimization fees are fully included apart from excluded media buying commission",
+    "Whether regulatory navigation capability specifically covers ASCI and FSSAI review deliverables",
+    "Whether relevant client experience includes kids/nutrition brands"
+  ],
+  "conflicting_info": [],
+  "overall_data_quality": "LOW",
+  "buyer_flags": [
+    "Proposal is only a high-level summary with minimal procurement detail",
+    "Total price excludes GST and media buying commission",
+    "No line-item pricing provided",
+    "No explicit confirmation of ASCI and FSSAI compliance review",
+    "No delivery timeline provided",
+    "No team or governance details provided"
+  ],
+  "clarification_questions": [
+    "Please provide itemized pricing for each of the 8 RFQ line items.",
+    "What is the media buying commission structure and estimated cost impact?",
+    "Please confirm whether the quoted amount includes fees for social paid media planning, buying, and optimization, excluding only pass-through media buying commission.",
+    "Please explicitly confirm your scope for ASCI kids advertising compliance review and FSSAI health/nutrition claims review.",
+    "Who will be the named compliance reviewer or legal/regulatory lead on this account?",
+    "Please confirm whether social organic content includes the requested 60 posts per month.",
+    "Please provide the proposed kickoff date, go-live date, and total campaign duration.",
+    "Please share payment terms and any commercial escalation clauses.",
+    "Please provide the proposed account team structure, key personnel, and relevant kids-category experience."
+  ]
+}

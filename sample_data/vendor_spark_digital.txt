@@ -1,0 +1,213 @@
+SPARK DIGITAL AGENCY
+Proposal — NourishKids Campaign
+Date: 5 February 2025 | RFQ: RFQ-MKT-2025-NKL-001
+
+================================================================================
+ABOUT SPARK DIGITAL
+================================================================================
+
+Spark Digital is India's fastest-growing performance-led creative agency. Founded in
+2018, we've built campaigns for some of India's most exciting D2C and FMCG brands —
+Mamaearth, Wow Skin Science, Sugar Cosmetics, Lenskart, boAt Lifestyle. We're a
+45-person team, founder-led, and hyper-focused on measurable results.
+
+Our philosophy: every campaign must be designed for the scroll, not the billboard.
+In 2024, our campaigns averaged 3.2x ROAS and 40% above-benchmark video completion
+rates.
+
+================================================================================
+OUR TAKE ON NOURISHING KIDS
+================================================================================
+
+Today's parents don't trust advertising — they trust other parents. They research on
+Instagram, ask in WhatsApp groups, and decide in 3-second scroll windows. Our strategy:
+make NourishKids the brand that parents discover through trusted voices, then engage
+with through content that genuinely helps them.
+
+Digital-first. Social-native. Performance-led.
+
+================================================================================
+SCOPE COVERAGE
+================================================================================
+
+LINE ITEM 1: Strategy & Creative Development — INCLUDED
+---------------------------------------------------------
+We'll develop a digital-first brand strategy:
+- Social brand persona for NourishKids
+- 3-4 content pillars (we'll refine at briefing)
+- Messaging framework optimised for Meta and YouTube audiences
+- Launch campaign concept for social-first activation
+
+Note: Our strategy is optimised for digital channels. We are not an ATL/traditional
+advertising agency. If broadcast TV is a significant component of the strategy, we'd
+recommend supplementing with a traditional agency for that workstream.
+
+LINE ITEM 2: TVC Development — INCLUDED (Online Video Format)
+---------------------------------------------------------------
+We develop high-quality digital video:
+- 2 x hero online videos (90 seconds) for YouTube and Instagram
+- 4 x cutdown versions (15 seconds each) for paid media
+- Platform-adapted formats for Meta (9:16, 1:1) and YouTube (16:9)
+- Storyboards and pre-production documentation
+
+Clarification on scope: This covers online video development optimised for digital
+platforms. We do not develop scripts or storyboards for traditional broadcast
+television. If traditional broadcast TVC scripts are required in the RFQ format,
+this is outside our scope.
+
+LINE ITEM 3: TVC Production — PARTIAL COVERAGE
+------------------------------------------------
+We handle digital content production through our network of production partners:
+- Product-focused digital shoots: INR 15-25 lakhs (depending on concept complexity)
+- Lifestyle content and family shoots: INR 8-12 lakhs
+
+Traditional broadcast TVC production for TV channels: This is not a core service for
+Spark Digital. We have production partners who handle broadcast-quality shoots.
+Estimated cost: INR 80-120 lakhs — however, this cannot be confirmed at this stage.
+Final cost depends on creative brief, director selection, location, and number of
+shoot days. We will be in a position to provide a firm quote after creative brief
+finalisation and production house shortlisting, which typically happens in Week 4-5
+of the project.
+
+We recommend treating broadcast TVC production as a separate mini-RFQ once the
+creative direction is confirmed.
+
+LINE ITEM 4: Social Organic Content — INCLUDED
+------------------------------------------------
+- 50 posts/month across Instagram and Facebook
+- Content calendar shared monthly
+- Our recommendation: focus on Instagram and Facebook; we would suggest deprioritising
+  YouTube organic for the first 6 months given the effort-to-impact ratio for a new
+  brand
+- 15 nano-influencer collaborations per month (briefing, content review, approval)
+
+On volume: The RFQ mentions 60 posts/month. Based on our experience, 50 high-quality
+posts outperform 60 mediocre posts. We'd welcome a discussion on this in the
+presentation.
+
+Influencer fees: Influencer compensation is billed separately based on platform rates,
+which are typically USD 200-500 per nano-influencer post per platform. These will be
+billed monthly in arrears based on actual rates.
+
+LINE ITEM 5: Social Paid Media Planning — INCLUDED
+----------------------------------------------------
+- Full paid media strategy and channel plan
+- Platform selection: Meta (Instagram + Facebook), Google/YouTube, and 1 OTT platform
+- Audience targeting and segmentation framework
+- Budget allocation and creative rotation plan
+- KPI framework and attribution model
+
+LINE ITEM 6: Social Paid Media Buying & Optimization — INCLUDED
+-----------------------------------------------------------------
+- Campaign setup and activation on Meta and Google ecosystems
+- Daily monitoring with anomaly detection
+- Weekly performance reports (dashboard format)
+- Monthly optimisation review call
+
+Fee structure: 12% on net media spend, billed monthly. This is in line with industry
+practice for performance-focused agencies.
+
+Note: We do not offer a flat monthly fee for media buying. Our model is
+commission-based to align incentives with performance.
+
+LINE ITEM 7: Kids Advertising & Claims Compliance — LIMITED SCOPE
+------------------------------------------------------------------
+We have extensive experience working with consumer brands that market to families and
+children. Our creative team is well-versed in ensuring content is age-appropriate
+and brand-safe.
+
+For formal ASCI Kids Advertising Code compliance review and FSSAI health claims
+validation, we recommend engaging a specialist compliance consultant. This is a
+specialised regulatory area where a dedicated expert adds more value than a general
+agency.
+
+We can facilitate the engagement of a compliance consultant and coordinate the review
+process. Facilitation fee: INR 5,00,000. Specialist consultant fees would be
+additional and billed at cost.
+
+We want to be transparent: formal regulatory compliance review is not a core
+competency of Spark Digital. We want to set the right expectations rather than
+overpromise on this.
+
+LINE ITEM 8: Launch Program Management — INCLUDED (Streamlined)
+-----------------------------------------------------------------
+- Dedicated account manager (Arjun Reddy, Founder, actively involved in first 3 months)
+- Fortnightly status calls with NourishPlus team
+- Shared project tracker on Notion
+
+Our PM approach is lean and digital-first. We use tools rather than heavy
+documentation. This may differ from traditional agency PM models, but our clients
+find it more responsive.
+
+================================================================================
+COMMERCIAL PROPOSAL
+================================================================================
+
+Line Item | Description                          | Cost (INR, excl. GST)  | Notes
+----------|--------------------------------------|------------------------|-------------------------------
+1         | Strategy & Creative Development      | 28,00,000              | Digital strategy
+2         | Online Video Development             | 22,00,000              | Digital formats only; NOT broadcast TVC
+3         | Digital Production (shoots)          | 18,00,000              | Digital shoots only
+4         | Social Organic Content (6 months)    | 54,00,000              | 50 posts/month
+5         | Paid Media Planning                  | 12,00,000              |
+6         | Paid Media Management (6 months)     | 24,00,000              | Excl. 12% commission
+7         | Compliance Facilitation              | 5,00,000               | Specialist fees additional
+8         | Account Management                   | 12,00,000              | Lean PM model
+TOTAL     |                                      | 1,75,00,000            |
+
+What's NOT included:
+- Broadcast TVC production: NOT INCLUDED (TBD, estimated INR 80-120L separately)
+- Media buying commission: 12% on net spend (separate, billed monthly)
+- Influencer fees: USD 200-500 per post per influencer (billed at actuals in USD)
+- Specialist compliance consultant fees (at cost, if engaged)
+- GST at 18%
+
+Payment terms: 50% advance on PO, 50% on project completion
+Proposal validity: 45 days from submission date
+
+================================================================================
+TIMELINE
+================================================================================
+
+Our digital-first approach enables faster execution:
+
+Phase   | Deliverable                    | Timeline
+--------|--------------------------------|------------------
+Phase 1 | Strategy & brief development   | Weeks 1-4
+Phase 2 | Online video production        | Weeks 3-8
+Phase 3 | Social content creation        | Week 6 onwards
+Phase 4 | Paid media launch              | Week 8 onwards
+
+Overall digital campaign live: approximately 10-12 weeks from project kickoff
+
+Broadcast TVC timeline: Cannot be confirmed until production scope is finalised and
+production house selected. This is a separate process.
+
+================================================================================
+OUR TEAM
+================================================================================
+
+Name            | Role                  | Experience
+----------------|-----------------------|-------------------------------------
+Arjun Reddy     | Founder & Strategy    | 8 years; ex-iProspect
+Nisha Pillai    | Creative Director     | 7 years; digital video specialist
+Vikram Singh    | Paid Media Head       | 6 years; Google & Meta certified
+Tanya Agarwal   | Social Content Lead   | 5 years; FMCG and lifestyle brands
+Production      | Partner network       | TBD per project
+
+================================================================================
+WHY SPARK DIGITAL?
+================================================================================
+
+We don't just deliver campaigns — we deliver results you can measure, optimise, and
+scale. Our campaigns average 3.2x ROAS on paid media and 40% above benchmark video
+completion rates.
+
+We're honest about what we do best: digital performance, social content, and paid
+media. We're not the right agency if traditional TV is the primary channel. But if
+NourishKids wants to win the digital-first parent, we're your team.
+
+================================================================================
+
+Arjun Reddy, Founder | arjun@sparkdigital.in | +91 9876512345
+

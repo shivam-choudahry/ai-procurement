@@ -1,0 +1,299 @@
+{
+  "rfq_id": "RFQ-MKT-NK-2026-071",
+  "title": "Request for Quotation for Integrated Marketing Services for NourishKids Launch Campaign",
+  "issuer": {
+    "company": "NourishPlus Foods India Ltd.",
+    "department": "Strategic Sourcing & Marketing Procurement",
+    "contact_name": "Ananya Mehta",
+    "contact_email": "ananya.mehta@nourishplusfoods.in",
+    "contact_phone": "+91 22 6124 7816"
+  },
+  "brand": "NourishKids",
+  "brand_description": "NourishKids is a new children’s nutrition brand from NourishPlus Foods India Ltd., comprising fortified fruit-and-vegetable snack bars formulated for children aged 4–12 years. The range is positioned as a convenient, lunchbox-friendly snack with added vitamins and minerals, fruit and vegetable ingredients, and taste profiles designed for Indian family preferences. The launch will focus on India metros and Tier 1 cities through an integrated mass and digital campaign.",
+  "market": "India - Metros and Tier 1 cities including Mumbai, Delhi NCR, Bengaluru, Hyderabad, Chennai, Pune, Kolkata, Ahmedabad, Chandigarh, Jaipur, Lucknow, Kochi and Coimbatore",
+  "issue_date": "2026-07-03",
+  "timelines": {
+    "rfq_issue_date": "2026-07-03",
+    "clarification_deadline": "2026-07-10 18:00 IST",
+    "submission_deadline": "2026-07-24 17:00 IST",
+    "shortlisting_notification": "2026-07-31",
+    "presentation_dates": "2026-08-03 to 2026-08-05",
+    "award_date": "2026-08-14",
+    "project_kickoff": "2026-08-24",
+    "campaign_go_live": "2027-02-02",
+    "campaign_end_date": "2027-05-31"
+  },
+  "overview": "NourishPlus Foods India Ltd. invites quotations from qualified marketing agencies for end-to-end launch support for NourishKids, a fortified fruit-and-vegetable snack bar range for children aged 4–12 years. The assignment covers strategic development, creative development, TVC development and production, social organic content, paid social planning and buying, regulatory and platform compliance review, and launch program management. The objective is to build awareness, trial intent and parent trust in key urban markets across India while ensuring all communication is compliant with Indian food advertising regulations, child-directed advertising norms and platform-specific restrictions. The selected agency may be a lead integrated agency or a consortium-led bidder; however, one contracting entity must assume prime responsibility for delivery, governance, compliance and commercial accountability.",
+  "scope_of_work": [
+    {
+      "line_item_id": 1,
+      "name": "Strategy and Creative Development",
+      "description": "Develop the integrated launch strategy and creative platform for NourishKids, anchored in parent insight, child appeal and nutrition trust cues suitable for the Indian FMCG market. Work must include category review, competitor mapping across healthy snacks and kids packaged foods, audience segmentation for mothers/fathers of children aged 4–12, messaging architecture, proposition refinement, campaign idea territories and final creative route recommendation for launch.",
+      "deliverables": [
+        "Category and competitor landscape review covering at least 12 relevant brands in kids snacks, breakfast, dairy and nutrition adjacencies",
+        "Consumer and channel insight synthesis using available secondary data and agency planning tools for metros and Tier 1 cities",
+        "One integrated communications strategy deck with target audience definition, barriers/motivators, positioning and channel roles",
+        "Minimum 3 distinct creative territories with rationale, moodboards and sample key visuals",
+        "Final approved campaign platform including master tagline options, messaging hierarchy and claims usage guidance",
+        "Key visual toolkit for launch including pack integration, typography, colour system and adaptation principles",
+        "Creative adaptation matrix for TV, digital video, static social, retail and e-commerce assets"
+      ],
+      "volume": "1 integrated strategy workstream; 3 creative territories; 1 final campaign platform; 1 adaptation toolkit",
+      "quality_standards": "Recommendations must be insight-led, category-relevant and executable within the approved budget range. Creative routes must be original, culturally relevant for urban Indian families, and suitable for adaptation into Hindi, English and at least 3 regional languages. All proposed claims and child-directed messaging must be capable of passing internal legal, ASCI and FSSAI review before production.",
+      "dependencies": "Timely provision by NourishPlus of product proposition, pack artworks, nutritional composition, approved claims list, consumer research summaries and internal stakeholder availability for workshops and approvals."
+    },
+    {
+      "line_item_id": 2,
+      "name": "TVC Development",
+      "description": "Develop television and digital video creative assets for launch, including scripts, storyboards and adaptation plans. The agency is expected to create a master AV idea that can work across broadcast and digital formats while balancing child appeal with parent reassurance and regulatory compliance.",
+      "deliverables": [
+        "2 script routes each for 30-second master film, 20-second cutdown and 10-second reminder format",
+        "Detailed frame-by-frame storyboard for the selected route",
+        "Director’s treatment brief and production approach note",
+        "Supers, packshot and end-frame design options with mandatory legal text placement",
+        "Language adaptation scripts in English, Hindi, Tamil, Telugu and Kannada",
+        "Music and sonic branding recommendation for AV consistency",
+        "Pre-production script compliance checklist covering claims, disclaimers and child portrayal"
+      ],
+      "volume": "6 script documents across 30s/20s/10s formats before selection; 1 final storyboard set; 5 language versions",
+      "quality_standards": "Scripts must clearly communicate product benefit without exaggeration, avoid prohibited comparative or misleading nutrition claims, and be suitable for editing into TV and digital placements. Storyboards must be production-ready with timing, supers and shot descriptions. Language adaptations must be transcreated, not literal translations, and must preserve compliance wording.",
+      "dependencies": "Approval of strategy platform, final product claims list, packshots, legal disclaimer language and internal brand team sign-off on selected route."
+    },
+    {
+      "line_item_id": 3,
+      "name": "TVC Production",
+      "description": "Produce the approved TVC and digital video assets, including pre-production, shoot, post-production, talent management and final mastering. Production must be managed to high child-safety standards and deliver broadcast-ready and platform-ready outputs for India.",
+      "deliverables": [
+        "1 live-action or hybrid shoot as per approved treatment, up to 2 shoot days in India",
+        "Casting of child and adult talent with documented guardian consent and usage rights",
+        "Production design, wardrobe, props and food styling aligned to approved brand world",
+        "Offline edit, online edit, colour grading, sound design and final mix",
+        "Master films in 30s, 20s and 10s durations",
+        "Versioning in English, Hindi, Tamil, Telugu and Kannada",
+        "Format masters for TV broadcast, YouTube, Meta, OTT and e-commerce PDP video use",
+        "Closed-caption files and subtitle files where applicable",
+        "Music license documentation, talent contracts, location permits and rights summary sheet",
+        "Final archive handover including editable project files and source footage index"
+      ],
+      "volume": "1 production project; up to 2 shoot days; 3 duration masters; 5 language versions; minimum 15 final AV output files excluding technical transcodes",
+      "quality_standards": "Final outputs must meet broadcast technical specifications for major Indian networks and digital platform specs for YouTube and Meta. Production values must be premium FMCG standard with clear pack visibility, appetizing product depiction and safe child portrayal. All rights must cover India for TV, digital, social and e-commerce usage for a minimum of 12 months from first air date unless otherwise quoted separately.",
+      "dependencies": "Approved scripts/storyboards, production budget approval, legal/compliance clearance, talent availability, location permits and timely client feedback on edits."
+    },
+    {
+      "line_item_id": 4,
+      "name": "Social Organic Content",
+      "description": "Plan, create and manage always-on organic social content for NourishKids across priority platforms during launch and sustain phases. Content should build awareness, educate parents, drive engagement and support campaign amplification while remaining compliant for a children’s nutrition brand.",
+      "deliverables": [
+        "Monthly content calendar across Instagram, Facebook and YouTube Shorts, with optional adaptation for LinkedIn corporate amplification if required",
+        "Minimum 60 posts per month across platforms, including at least 20 short-form videos/reels and 40 static/carousel/story assets",
+        "Community management for inbound comments and messages during business hours, Monday to Saturday, with escalation matrix for adverse events",
+        "Creative production of captions, hashtags, thumbnails and platform-native copy in English and Hindi, with selective regional adaptation for campaign bursts",
+        "Monthly social listening summary covering sentiment, recurring parent questions and competitor activity",
+        "Response bank for FAQs on ingredients, nutrition, age suitability and availability, aligned to approved claims"
+      ],
+      "volume": "Minimum 60 organic posts per month for 4.5 months from mid-February 2027 to June 2027; at least 270 total assets including 90 reels/short videos",
+      "quality_standards": "Content must be platform-native, visually consistent with campaign identity and suitable for parent audiences. Community responses must adhere to approved response matrices and avoid unapproved health or performance claims. Average response time target for community management is within 4 business hours for routine queries and within 1 hour for escalations flagged as safety, legal or reputational.",
+      "dependencies": "Approved brand guidelines, content pillars, product photography/video assets, FAQ approvals, escalation contacts and monthly review cadence with brand team."
+    },
+    {
+      "line_item_id": 5,
+      "name": "Social Paid Media Planning",
+      "description": "Develop the paid social and digital video media strategy for launch, focused on efficient reach and frequency among parents and household decision-makers in India metros and Tier 1 cities. Planning must reflect platform restrictions around under-13 targeting and ensure audience construction is parent-led, not child-targeted.",
+      "deliverables": [
+        "Audience strategy defining primary, secondary and exclusion audiences, including parents of children 4–12, household shoppers and nutrition-conscious urban families",
+        "Platform selection rationale across Meta, YouTube, Google DV360/video partners and other compliant inventory sources as proposed",
+        "KPI framework covering reach, video completion rate, cost per completed view, engagement rate, click-through rate and brand lift proxy metrics",
+        "Budget phasing plan by month from February 2027 to June 2027 with launch burst and sustain allocation",
+        "City-tier allocation plan for metros and Tier 1 cities with rationale based on category potential and media costs",
+        "Test-and-learn framework for creative, audience and placement optimization",
+        "Measurement plan including UTMs, dashboard structure and attribution assumptions"
+      ],
+      "volume": "1 comprehensive paid media strategy and media plan covering 4.5-month campaign period with monthly phasing and city-level allocation",
+      "quality_standards": "Plan must be grounded in current India digital media benchmarks and clearly distinguish working media, platform fees and agency fees. Audience strategy must comply with platform restrictions on age-based targeting for children and avoid direct solicitation to minors. KPI assumptions must be realistic for FMCG launch campaigns in India.",
+      "dependencies": "Approved campaign assets, target geography priorities, budget confirmation, first-party data availability if any, and alignment on measurement approach with internal analytics team."
+    },
+    {
+      "line_item_id": 6,
+      "name": "Social Paid Media Buying and Optimization",
+      "description": "Execute paid social and digital video campaigns, including trafficking, monitoring, optimization and reporting. The appointed agency must demonstrate strong platform capability, disciplined governance and transparent media buying practices.",
+      "deliverables": [
+        "Campaign setup and trafficking across approved platforms with naming conventions and QA checklist",
+        "Daily pacing and delivery monitoring during launch burst and minimum thrice-weekly monitoring thereafter",
+        "Weekly performance reports with spend, delivery, KPI tracking, optimization actions and learning agenda",
+        "Monthly executive dashboard summarizing media efficiency, audience insights and creative performance",
+        "Optimization process covering bid strategy, audience refinement, placement exclusions, frequency management and creative rotation",
+        "Reconciliation statement by platform and invoice support documentation",
+        "Post-campaign report with performance analysis against plan and recommendations for next phase"
+      ],
+      "volume": "Active media management for approximately 4.5 months; weekly reporting; 5 monthly dashboards; 1 final post-buy analysis",
+      "quality_standards": "Agency must hold current platform certifications relevant to proposed channels, such as Meta Certified Digital Marketing Associate/Professional or equivalent team credentials and Google Ads/Display & Video certifications for execution leads. Buying must be executed through disclosed accounts with no undisclosed inventory arbitrage. Reporting accuracy tolerance is expected within +/-1% of platform invoiced spend.",
+      "dependencies": "Approved media plan, platform access, billing setup, creative approvals, tracking implementation and timely release of media funds by client."
+    },
+    {
+      "line_item_id": 7,
+      "name": "Kids Advertising and Claims Compliance Review",
+      "description": "Provide structured compliance review for all campaign assets before release, covering Indian advertising and food claims regulations as well as platform policy requirements. This workstream is mandatory and must be embedded into the creative and media process, not treated as a post-facto check.",
+      "deliverables": [
+        "Asset-by-asset compliance review against ASCI Code with specific reference to Chapter III provisions applicable to advertisements addressed to or featuring children",
+        "Review of all nutrition, health and ingredient-related statements against Food Safety and Standards (Advertising and Claims) Regulations, 2018 and supporting product documentation",
+        "Platform policy review for YouTube/YouTube Kids suitability, Meta policies including under-13 targeting restrictions, and any additional platform-specific ad policy checks",
+        "Written compliance tracker with status: approved, approved with modifications, or rejected",
+        "Named reviewer sign-off note for each major asset class: TVC, digital video, static social, captions and paid media audience setup",
+        "Escalation and remediation process for disputed claims or policy risks"
+      ],
+      "volume": "Compliance review for all launch assets, including minimum 1 strategy deck, 1 TVC package, 270+ organic assets, paid media audience setup and all ad copies before release",
+      "quality_standards": "Reviewer must have demonstrable experience in Indian advertising and food claims compliance. No asset may go live without documented sign-off. Reviews must be completed within agreed SLAs: 3 working days for standard assets and 1 working day for urgent adaptations. Guidance must cite the relevant ASCI/FSSAI provision or platform policy basis where changes are requested.",
+      "dependencies": "Provision of final product specifications, approved ingredient and nutrition data, legal-approved claims substantiation documents and final creative files in reviewable format."
+    },
+    {
+      "line_item_id": 8,
+      "name": "Launch Program Management",
+      "description": "Provide end-to-end project management across strategy, creative, production, compliance and media workstreams to ensure on-time launch. The agency must run disciplined governance suitable for a large FMCG organization with multiple stakeholders across marketing, legal, regulatory, finance and sales.",
+      "deliverables": [
+        "Integrated project plan with critical path from award to campaign end",
+        "Weekly status tracker covering deliverables, owners, due dates and decision points",
+        "Steering committee cadence with fortnightly senior stakeholder updates",
+        "Risk and issue register with mitigation actions and escalation thresholds",
+        "Dependency tracker across creative approvals, compliance sign-offs, production milestones and media readiness",
+        "Meeting minutes and action logs for all formal governance forums",
+        "Launch readiness checklist covering asset availability, trafficking readiness, legal approvals and contingency plans"
+      ],
+      "volume": "Project management across full assignment from August 2026 to February 2027; weekly working team reporting and fortnightly leadership reporting",
+      "quality_standards": "Program management must be proactive, accurate and escalation-oriented. Critical path slippage beyond 2 working days on any launch-critical milestone must be flagged immediately with recovery plan options. Documentation must be maintained in a shared tracker accessible to NourishPlus stakeholders.",
+      "dependencies": "Timely stakeholder participation, approval turnaround from client teams, access to shared collaboration tools and finalization of governance calendar at kickoff."
+    }
+  ],
+  "commercial_expectations": {
+    "pricing_format": "Vendors must submit an itemized commercial proposal in INR, exclusive of GST, broken out by each scope line item. At minimum, pricing must separately show: (1) strategy and creative fees, (2) TVC development fees, (3) TVC production costs with detailed sub-heads for pre-production, shoot, post-production, talent, music, locations, art, equipment and rights, (4) monthly organic social retainer and per-asset rates if applicable, (5) paid media planning fee, (6) paid media buying/optimization fee shown as either fixed fee plus percentage of managed spend or fixed monthly fee, (7) compliance review fee, and (8) program management fee. For commercial comparability, bidders are requested to quote against the following indicative line-item ranges excluding GST: Line 1 Strategy & Creative Development INR 28,00,000-42,00,000; Line 2 TVC Development INR 18,00,000-30,00,000; Line 3 TVC Production INR 1,35,00,000-2,10,00,000; Line 4 Social Organic Content INR 55,00,000-85,00,000 for campaign period; Line 5 Paid Media Planning INR 12,00,000-20,00,000; Line 6 Paid Media Buying & Optimization fee INR 22,00,000-38,00,000 excluding working media; Line 7 Compliance Review INR 10,00,000-18,00,000; Line 8 Launch Program Management INR 14,00,000-24,00,000. Working media budgets must be quoted separately from agency fees and production costs.",
+    "payment_terms": "Standard payment milestone expectation is 20% on contract signature and kickoff; 30% on approval of strategy, creative route and final production estimate; 25% on delivery of final TVC masters and first month social content/live campaign setup; 15% on completion of campaign launch month and acceptance of March 2027 reporting pack; 10% on final campaign closure, submission of post-campaign report, rights documentation and financial reconciliation. Payment terms are 60 days from receipt of valid tax invoice and acceptance of milestone deliverables. Media spends and approved third-party production costs will be reimbursed at actuals against prior written approval and supporting invoices, subject to agreed credit terms.",
+    "budget_range": "Total indicative budget for this RFQ is INR 4.0-6.0 Crore excluding GST, inclusive of agency fees, TVC development and production, organic social content, compliance review and program management, and exclusive of any optional scope not expressly requested. Within this, expected working media allocation is approximately INR 1.75-2.50 Crore, subject to final approved media plan.",
+    "cost_transparency_requirements": "Full commercial transparency is mandatory. Vendors must disclose all mark-ups on third-party costs, production house fees, talent fees, music licenses, stock, platform fees and any pass-through expenses. Any media rebates, volume incentives, free inventory, barter value, annual platform incentives or agency trading benefits connected to NourishPlus spend must be declared and treatment clearly stated. No undisclosed commission, inventory arbitrage or principal media trading model will be accepted unless explicitly proposed and commercially separated. Sub-contractor costs must be identified by role and legal entity. Rate cards for additional work, out-of-scope revisions and extension months must be included. All quotations must remain valid for 90 days from submission deadline."
+  },
+  "vendor_questionnaire": [
+    {
+      "q_id": "Q1",
+      "question": "Provide your agency’s legal entity name, year of incorporation, headquarters location, India office locations, ownership structure and total FY2025 revenue.",
+      "guidance": "Include CIN/GST details, whether privately held or part of a network, and audited turnover for the last two financial years."
+    },
+    {
+      "q_id": "Q2",
+      "question": "Describe your relevant experience in FMCG launches in India, specifically food, nutrition, snacks or family brands launched in the last 5 years.",
+      "guidance": "Provide at least 3 case studies with client name, scope, campaign period, channels used, approximate budget band and measurable outcomes."
+    },
+    {
+      "q_id": "Q3",
+      "question": "Detail your experience in children’s category, family-oriented or parent-targeted communications, including how you manage child-directed advertising sensitivities.",
+      "guidance": "Highlight examples involving products for children aged under 13, and explain safeguards used in creative and media planning."
+    },
+    {
+      "q_id": "Q4",
+      "question": "Explain your ASCI and FSSAI compliance review process for food advertising. Name the individual who will review NourishKids assets and provide their qualifications and relevant experience.",
+      "guidance": "Specify whether the reviewer is in-house or external counsel/consultant, review SLAs, escalation process and examples of prior food claims review."
+    },
+    {
+      "q_id": "Q5",
+      "question": "Summarize your TVC development and production capability, including in-house versus partner model, typical production scale and 3 recent AV campaigns delivered in India.",
+      "guidance": "Include script development approach, director/production partner roster, child talent handling experience and post-production capabilities."
+    },
+    {
+      "q_id": "Q6",
+      "question": "List the paid media platforms you propose to use and provide current certifications held by the team members who would execute this assignment.",
+      "guidance": "Attach copies or IDs for Meta certifications, Google Ads/Display & Video certifications and any other relevant credentials. Identify the certified personnel by role."
+    },
+    {
+      "q_id": "Q7",
+      "question": "Provide the proposed team structure for this assignment, including names, titles, years of experience, location and percentage allocation by workstream.",
+      "guidance": "At minimum include strategy lead, creative lead, account lead, producer, social lead, paid media lead, compliance reviewer and project manager."
+    },
+    {
+      "q_id": "Q8",
+      "question": "Disclose all sub-contractors or specialist partners you expect to use for this assignment and specify the scope each will handle.",
+      "guidance": "Include production houses, editors, compliance consultants, media trading desks or community management partners, along with governance and quality control approach."
+    },
+    {
+      "q_id": "Q9",
+      "question": "Provide evidence of your financial stability and ability to manage production and media cash flow for an assignment of this size.",
+      "guidance": "Submit audited financial statements for FY2025-26 and FY2025-26 if available, banker reference, and note any material litigation, insolvency events or going-concern qualifications."
+    },
+    {
+      "q_id": "Q10",
+      "question": "Confirm your organization’s POSH compliance status, anti-bribery/anti-corruption policy, data protection policy and whistleblower mechanism.",
+      "guidance": "Attach policy summaries and confirm Internal Committee constitution under the POSH Act, employee training cadence and reporting channels."
+    },
+    {
+      "q_id": "Q11",
+      "question": "Describe your child safety protocols for shoots involving minors, including consent, working hours, on-set supervision and safeguarding measures.",
+      "guidance": "Reference applicable labour and production norms, guardian consent process, background checks where relevant and emergency response procedures."
+    },
+    {
+      "q_id": "Q12",
+      "question": "Explain your reporting methodology, dashboard tools and reconciliation process for paid media and production costs.",
+      "guidance": "Clarify frequency, data sources, approval checkpoints, invoice matching process and how you ensure transparency on third-party costs and rebates."
+    }
+  ],
+  "compliance_requirements": [
+    {
+      "area": "ASCI Code for Self-Regulation in Advertising in India - Chapter III (Advertisements addressed to or featuring children)",
+      "requirement": "All creative and media executions must comply with ASCI provisions applicable to children, including avoiding unsafe practices, unrealistic expectations, direct exhortation to purchase, exploitation of children’s inexperience or credulity, and any implication that possession/consumption confers superiority. Communications must not encourage excessive consumption or mislead on product capability or nutritional effect.",
+      "documentation_required": "Signed compliance note from named reviewer citing Chapter III review completion; annotated scripts/storyboards where changes were required; final asset approval tracker."
+    },
+    {
+      "area": "Food Safety and Standards (Advertising and Claims) Regulations, 2018",
+      "requirement": "All nutrition, health, ingredient and comparative claims must be substantiated and used only within the limits of approved product documentation and applicable FSSAI regulations. No misleading, exaggerated or disease-risk reduction claims may be used unless specifically permitted and substantiated. Use of terms such as healthy, nutritious, fortified, source of vitamins/minerals, or similar must align with product composition and legal review.",
+      "documentation_required": "Claims substantiation matrix, product specification sheet, nutrition panel, ingredient list, fortification details where applicable, and legal/regulatory sign-off for each approved claim."
+    },
+    {
+      "area": "Platform Policies - YouTube / YouTube Kids / Meta",
+      "requirement": "Media planning and creative deployment must comply with platform-specific policies, including restrictions on under-13 targeting, personalized advertising limitations for child-directed content, and suitability requirements for placements adjacent to children’s content. Audience construction must target parents/household decision-makers rather than minors directly unless expressly permitted by platform policy.",
+      "documentation_required": "Platform policy compliance checklist, audience setup screenshots/export, placement exclusion list, and written confirmation from media lead that campaign setup adheres to current platform policies."
+    },
+    {
+      "area": "POSH Compliance",
+      "requirement": "Vendor must comply with the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 and maintain a functioning Internal Committee for applicable entities. All personnel deployed on this assignment must be covered by the vendor’s POSH policy.",
+      "documentation_required": "POSH policy copy, Internal Committee constitution details, latest annual POSH filing/summary where applicable, and declaration of compliance signed by authorized signatory."
+    },
+    {
+      "area": "Child Safety in Production",
+      "requirement": "Any shoot involving minors must follow documented child safeguarding procedures, including guardian consent, age-appropriate working conditions, supervision, restricted access protocols, and safe food handling where children are consuming product on camera. Vendor must ensure compliance with applicable labour, production and location rules.",
+      "documentation_required": "Child safeguarding SOP, sample guardian consent form, shoot risk assessment, emergency contact protocol, and final production compliance declaration."
+    },
+    {
+      "area": "Data Protection and Confidentiality",
+      "requirement": "Vendor must protect all confidential business information, campaign materials, consumer data and platform access credentials. Any use of personal data for audience creation or campaign measurement must comply with applicable Indian law and platform terms. No client data may be shared with unauthorized third parties.",
+      "documentation_required": "Data protection/privacy policy, confidentiality undertaking, information security summary, and disclosure of any offshore data processing or third-party data tools used."
+    },
+    {
+      "area": "Anti-Bribery, Anti-Corruption and Conflict of Interest",
+      "requirement": "Vendor must maintain policies prohibiting bribery, kickbacks, facilitation payments and undisclosed conflicts of interest. Any actual or potential conflict involving media owners, production partners, talent agencies or NourishPlus employees must be declared immediately.",
+      "documentation_required": "Anti-bribery policy, conflict-of-interest declaration, gifts and hospitality policy summary, and signed vendor code of conduct acceptance."
+    }
+  ],
+  "evaluation_criteria": [
+    {
+      "criterion": "Commercial Competitiveness and Cost Transparency",
+      "weight": "30%",
+      "description": "Assessment of total cost of ownership, competitiveness of agency fees and production costs, clarity of pricing assumptions, transparency of mark-ups/rebates and commercial flexibility within the INR 4-6 Crore budget envelope."
+    },
+    {
+      "criterion": "Capability and Quality of Proposed Solution",
+      "weight": "30%",
+      "description": "Strength of strategic thinking, creative approach, TVC and social capability, media planning rigor, governance model and practicality of delivering the requested scope within timelines."
+    },
+    {
+      "criterion": "Compliance and Risk Management",
+      "weight": "20%",
+      "description": "Demonstrated robustness of ASCI/FSSAI review process, platform policy compliance, child safety controls, POSH/data protection standards and overall risk mitigation approach."
+    },
+    {
+      "criterion": "Relevant Experience and Team",
+      "weight": "20%",
+      "description": "Track record in Indian FMCG and family/kids-related campaigns, quality of case studies, seniority and relevance of proposed team, and ability to execute at national launch scale."
+    }
+  ],
+  "submission_instructions": {
+    "format": "Submit one technical proposal and one commercial proposal as separate password-protected PDF files, along with an editable Excel commercial sheet in INR excluding GST. Technical proposal should include agency credentials, response to scope, methodology, timelines, team structure, case studies, compliance process and completed questionnaire with supporting annexures. Commercial proposal must provide itemized pricing by line item, assumptions, third-party cost treatment, mark-ups and payment milestone acceptance. File naming convention: 'NourishKids_RFQ_Technical_<AgencyName>.pdf', 'NourishKids_RFQ_Commercial_<AgencyName>.pdf', and 'NourishKids_RFQ_Pricing_<AgencyName>.xlsx'. Passwords must be shared only after submission deadline upon request from issuer.",
+    "deadline": "2026-07-24 17:00 IST",
+    "contact": "All submissions and clarification requests must be sent by email to ananya.mehta@nourishplusfoods.in with cc to marketingprocurement@nourishplusfoods.in. Subject line for submission: 'RFQ Response - NourishKids Launch Campaign - <Agency Name>'. Clarification questions must be consolidated and submitted no later than 2026-07-10 18:00 IST.",
+    "page_limit": "Technical proposal maximum 40 pages excluding annexures, credentials appendix, CVs, certifications and policy documents. Commercial proposal maximum 15 pages excluding detailed cost sheets."
+  }
+}

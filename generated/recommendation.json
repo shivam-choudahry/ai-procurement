@@ -1,0 +1,122 @@
+{
+  "recommendation_id": "REC-2026-NKL-001",
+  "recommendation_timestamp": "2026-07-03T00:00:00Z",
+  "rfq_reference": "RFQ-MKT-2026-NKL-001",
+  "vendors": [
+    {
+      "vendor_id": "V001",
+      "vendor_name": "Apex Creative Co.",
+      "recommendation": "shortlist",
+      "confidence_score": 88,
+      "pros": [
+        "Strongest extracted scope position among the three vendors, with \"overall_coverage_score\": \"88\" and only one explicit uncovered item: \"English TVC independently developed (adaptation only)\".",
+        "Pricing is comparatively reliable and internally consistent: \"total_stated\": \"INR 4,20,00,000\", \"includes_gst\": false, and \"consistency_check\": \"PASS\" with note \"Itemized total matches stated total\".",
+        "Timeline is fully stated and internally consistent: \"total_duration\": { \"value\": \"52 weeks\", \"status\": \"present\" } and \"consistency_check\": \"PASS\".",
+        "Compliance coverage is the strongest in the set: ASCI is \"Covered — named reviewer Kavita Shah (ex-ASCI panelist)\" with \"detail_level\": \"high\", and FSSAI health claims are \"Covered\" with \"detail_level\": \"high\".",
+        "Underlying extraction reliability is favorable because \"overall_data_quality\": \"HIGH\"."
+      ],
+      "cons": [
+        "There is still a scope gap on a potentially material RFQ item: \"English TVC independently developed (adaptation only)\".",
+        "Commercial completeness cannot be fully assessed from the provided data because payment terms, validity, assumptions, and exclusions were not extracted beyond GST treatment.",
+        "The proposal is not the lowest stated price in the dataset, with \"total_stated\": \"INR 4,20,00,000\", although direct price comparison is limited because other vendors' pricing is not fully comparable."
+      ],
+      "risk_level": "LOW",
+      "conditions": [],
+      "evidence_citations": [
+        "\"overall_coverage_score\": \"88\"",
+        "\"uncovered_items\": [\"English TVC independently developed (adaptation only)\"]",
+        "\"total_stated\": \"INR 4,20,00,000\"",
+        "\"includes_gst\": false",
+        "\"consistency_check\": \"PASS\"",
+        "\"consistency_note\": \"Itemized total matches stated total\"",
+        "\"total_duration\": { \"value\": \"52 weeks\", \"status\": \"present\" }",
+        "\"asci_kids_code\": { \"value\": \"Covered — named reviewer Kavita Shah (ex-ASCI panelist)\", \"status\": \"present\", \"detail_level\": \"high\" }",
+        "\"fssai_health_claims\": { \"value\": \"Covered\", \"status\": \"present\", \"detail_level\": \"high\" }",
+        "\"overall_data_quality\": \"HIGH\""
+      ],
+      "buyer_decision_notes": "Recommended for shortlist because it has the strongest combination of scope coverage, pricing consistency, timeline clarity, and compliance detail in the provided evidence. Buyer should still confirm whether independent English TVC development is mandatory and obtain missing commercial terms before final award."
+    },
+    {
+      "vendor_id": "V002",
+      "vendor_name": "Spark Digital Agency",
+      "recommendation": "reject",
+      "confidence_score": 84,
+      "pros": [
+        "Lowest stated headline price in the extracted data at \"INR 1,75,00,000\", which may indicate cost competitiveness if scope were aligned.",
+        "Digital delivery timing is relatively fast for the covered portion: \"10-12 weeks for digital; TVC TBD\"."
+      ],
+      "cons": [
+        "Scope coverage is weak relative to peers, with \"overall_coverage_score\": \"62\" and major uncovered items: \"Broadcast TVC production (TBD)\" and \"Formal ASCI/FSSAI compliance review\".",
+        "Pricing is not reliably comparable because \"currency\": \"INR (with some USD items)\", \"status\": \"partial\", and \"consistency_check\": \"PARTIAL\" with note \"Influencer fees quoted in USD — currency inconsistency\".",
+        "Timeline is incomplete and uncertain because \"total_duration\" is only \"10-12 weeks for digital; TVC TBD\" and timeline \"consistency_check\": \"UNKNOWN\".",
+        "Compliance coverage is materially insufficient for regulated advertising: ASCI only \"Recommends external specialist\" with \"status\": \"partial\" and \"detail_level\": \"low\", while FSSAI health claims are \"Not addressed\" with \"status\": \"missing\".",
+        "Evidence reliability is weak because \"overall_data_quality\": \"LOW\"."
+      ],
+      "risk_level": "HIGH",
+      "conditions": [],
+      "evidence_citations": [
+        "\"overall_coverage_score\": \"62\"",
+        "\"uncovered_items\": [\"Broadcast TVC production (TBD)\", \"Formal ASCI/FSSAI compliance review\"]",
+        "\"total_stated\": \"INR 1,75,00,000\"",
+        "\"currency\": \"INR (with some USD items)\"",
+        "\"consistency_check\": \"PARTIAL\"",
+        "\"consistency_note\": \"Influencer fees quoted in USD — currency inconsistency\"",
+        "\"status\": \"partial\"",
+        "\"total_duration\": { \"value\": \"10-12 weeks for digital; TVC TBD\", \"status\": \"partial\" }",
+        "\"timeline\": { \"consistency_check\": \"UNKNOWN\" }",
+        "\"asci_kids_code\": { \"value\": \"Recommends external specialist\", \"status\": \"partial\", \"detail_level\": \"low\" }",
+        "\"fssai_health_claims\": { \"value\": \"Not addressed\", \"status\": \"missing\", \"detail_level\": \"none\" }",
+        "\"overall_data_quality\": \"LOW\""
+      ],
+      "buyer_decision_notes": "Recommended for rejection based on multiple material gaps: incomplete scope, missing/partial compliance coverage, mixed-currency partial pricing, and uncertain timeline. Confidence is relatively high because the rejection is driven by explicit uncovered items and missing compliance fields rather than subjective interpretation."
+    },
+    {
+      "vendor_id": "V003",
+      "vendor_name": "Brandsmith Group",
+      "recommendation": "conditional",
+      "confidence_score": 79,
+      "pros": [
+        "Reasonably strong scope position with \"overall_coverage_score\": \"75\", better than V002 and below V001.",
+        "Headline stated price of \"INR 3,90,00,000\" is below V001's stated total, if later validated.",
+        "Proposal at least references both ASCI and FSSAI topics, indicating awareness of compliance requirements, even though detail is weak."
+      ],
+      "cons": [
+        "Pricing has a material internal conflict: \"stated total INR 3.90Cr vs itemized total INR 3.64Cr — INR 26L unexplained discrepancy\", with \"consistency_check\": \"FAIL\" and status \"conflicting\".",
+        "Timeline is internally inconsistent: \"6-8 weeks (claimed) vs 15-16 weeks (detailed plan)\" with timeline \"consistency_check\": \"FAIL\".",
+        "Scope still has notable gaps: \"English TVC (extra cost)\" and \"Independent compliance reviewer not named\".",
+        "Compliance support is weakly evidenced: ASCI is \"Claims ASCI compliant, no process detail, no named reviewer\" and FSSAI is \"Mentioned in passing, no detail\"; both are only partial with low detail.",
+        "Overall evidence quality is only \"MEDIUM\", reducing certainty until discrepancies are resolved."
+      ],
+      "risk_level": "HIGH",
+      "conditions": [
+        "Reconcile the pricing discrepancy between \"INR 3,90,00,000\" stated total and \"INR 3,64,00,000\" itemized total, and explain the \"INR 26L unexplained discrepancy\".",
+        "Provide a single committed project timeline and resolve the conflict between \"6-8 weeks (claimed)\" and \"15-16 weeks (detailed plan)\".",
+        "Confirm whether \"English TVC\" is included in base scope or remains \"extra cost\", and provide revised commercial impact if applicable.",
+        "Name the independent compliance reviewer and provide a defined ASCI/FSSAI review process with sufficient detail."
+      ],
+      "evidence_citations": [
+        "\"overall_coverage_score\": \"75\"",
+        "\"uncovered_items\": [\"English TVC (extra cost)\", \"Independent compliance reviewer not named\"]",
+        "\"total_stated\": \"INR 3,90,00,000\"",
+        "\"itemized_total\": \"INR 3,64,00,000\"",
+        "\"consistency_check\": \"FAIL\"",
+        "\"consistency_note\": \"Stated total INR 3.90Cr vs itemized total INR 3.64Cr — INR 26L unexplained discrepancy\"",
+        "\"total_duration\": { \"value\": \"6-8 weeks (claimed) vs 15-16 weeks (detailed plan)\", \"status\": \"conflicting\" }",
+        "\"timeline\": { \"consistency_check\": \"FAIL\" }",
+        "\"asci_kids_code\": { \"value\": \"Claims ASCI compliant, no process detail, no named reviewer\", \"status\": \"partial\", \"detail_level\": \"low\" }",
+        "\"fssai_health_claims\": { \"value\": \"Mentioned in passing, no detail\", \"status\": \"partial\", \"detail_level\": \"low\" }",
+        "\"overall_data_quality\": \"MEDIUM\""
+      ],
+      "buyer_decision_notes": "Recommended as conditional rather than shortlist because the vendor appears potentially viable on scope, but current pricing and timeline contradictions are material enough to prevent clean comparison. Confidence is moderate-high because the concerns are explicit and quantifiable, but the vendor could improve position if clarifications are satisfactory."
+    }
+  ],
+  "overall_summary": "Based on the provided evidence, Apex Creative Co. is the only vendor that currently supports a clean shortlist recommendation due to the strongest scope coverage, internally consistent pricing, clear timeline, and detailed compliance support. Brandsmith Group remains potentially viable but should only proceed conditionally because of a quantified INR 26L pricing discrepancy, conflicting timeline claims, and weak compliance detail. Spark Digital Agency is not recommended for shortlisting because the extracted evidence shows major scope gaps, incomplete compliance coverage, mixed-currency partial pricing, and low overall data quality.",
+  "next_steps": [
+    "Advance V001 to shortlist and confirm whether independent English TVC development is mandatory or whether adaptation-only coverage is acceptable.",
+    "Issue a clarification request to V003 covering the INR 26L pricing discrepancy, final committed timeline, English TVC inclusion, and named compliance reviewer/process.",
+    "Do not shortlist V002 unless the buyer chooses to reopen competition for a narrower digital-only scope and requires a fully revised commercial and compliance submission.",
+    "For all vendors considered further, obtain missing commercial terms not present in the extraction, including payment terms, proposal validity, assumptions, exclusions, and any change-order rules.",
+    "Re-run commercial comparability after clarifications because current pricing is only fully comparable for V001."
+  ],
+  "disclaimer": "This recommendation is based solely on the information provided in vendor proposals. Final decision rests with the buyer."
+}

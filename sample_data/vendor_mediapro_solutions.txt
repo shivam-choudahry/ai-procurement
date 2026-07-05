@@ -1,0 +1,212 @@
+MEDIAPRO SOLUTIONS
+Digital & Performance Media Proposal — NourishKids Campaign
+Date: 5 February 2025 | RFQ: RFQ-MKT-2025-NKL-001 | Validity: 30 days
+
+================================================================================
+ABOUT MEDIAPRO SOLUTIONS
+================================================================================
+
+MediaPro Solutions is a specialist digital media and performance marketing agency
+founded in 2016. We manage over INR 120 Crore in annual media spend across 40+ brands
+in FMCG, e-commerce, and consumer durables. Our core expertise is paid media planning,
+buying, and optimisation — Meta, Google, YouTube, OTT, and programmatic.
+
+Clients include: Parle Products, Haldirams, Wow Skin Science, Mamaearth, Boat Lifestyle.
+
+We are responding to this RFQ with a focus on our areas of deep specialisation.
+
+================================================================================
+SCOPE COVERAGE
+================================================================================
+
+LINE ITEM 1: Strategy & Creative Development
+---------------------------------------------
+MediaPro can support with a digital brand and media strategy. We will develop:
+- Digital channel strategy and platform prioritisation
+- Audience framework and targeting architecture
+- Content type and format recommendations for paid and organic
+
+Note: We are a media-first agency. Brand strategy and full creative development
+(positioning, messaging architecture, ATL creative) is outside our primary scope.
+We recommend engaging a dedicated creative agency for the brand and ATL workstream.
+Our contribution here is limited to digital strategy and media brief inputs.
+
+LINE ITEM 2: TVC Development
+------------------------------
+This is not a service offered by MediaPro Solutions.
+
+We are a digital and performance media agency. TVC script development, storyboarding,
+and broadcast creative is outside our scope. We recommend engaging a creative agency
+for this deliverable.
+
+LINE ITEM 3: TVC Production
+------------------------------
+This is not a service offered by MediaPro Solutions.
+
+TVC production and broadcast delivery is outside our scope. We do not manage film
+production, casting, shoot direction, or broadcast delivery.
+
+LINE ITEM 4: Social Organic Content — INCLUDED (Limited)
+----------------------------------------------------------
+MediaPro manages social content as a supporting service for paid media accounts.
+
+We can deliver:
+- Content calendar development and planning
+- Up to 30 posts/month across Instagram and Facebook (static and basic graphic formats)
+- Basic caption and copy writing
+- Coordination with client creative team for video content
+
+We do not have an in-house social content production capability for reels, YouTube
+Shorts, or video-first formats. Video content would need to be provided by the client
+or a separate content production partner.
+
+Influencer management is outside our scope.
+
+LINE ITEM 5: Social Paid Media Planning — CORE STRENGTH
+---------------------------------------------------------
+Full-service paid media planning:
+- Complete channel strategy: Meta (Instagram, Facebook), Google (Search, Display,
+  YouTube), OTT (Hotstar, SonyLIV, Zee5), Programmatic (DV360)
+- Audience segmentation: 8 distinct audience cohorts mapped for NourishKids
+  (metro parents, Tier-2 parents, health-conscious parents, child-influencer segment)
+- Media mix modelling: reach/frequency targets by channel based on budget bands
+- Budget allocation model with 3 scenarios (conservative INR 50L/month, base INR
+  1Cr/month, aggressive INR 1.5Cr/month)
+- KPI framework: reach, frequency, GRP equivalent, video views, CTR, website traffic,
+  brand lift (if media budget enables brand lift survey)
+- Competitive media audit for FMCG nutrition category
+
+This is our strongest deliverable. Full strategy document typically 60-80 pages.
+
+Timeline: 3-4 weeks from brief confirmation
+
+LINE ITEM 6: Social Paid Media Buying & Optimization — CORE STRENGTH
+----------------------------------------------------------------------
+End-to-end paid media management across all platforms:
+- Campaign architecture, audience building, creative trafficking
+- Daily pacing, budget management, and anomaly detection
+- Weekly performance dashboard (automated, live Looker Studio)
+- Bi-weekly optimisation calls with NourishPlus marketing team
+- Monthly deep-dive: spend, performance, attribution, recommendations
+- A/B testing framework: 2 creative variants tested per ad set per month
+- End-of-campaign report with attribution analysis
+
+Fee structure: INR 12,00,000 per month flat fee for media management (6-month
+engagement). This covers all platforms listed above. No percentage commission.
+
+For context: at INR 1Cr/month media spend, our flat fee equates to a 12% effective
+rate. At higher spends, the flat fee is better value for the client.
+
+Setup fee (one-time): INR 3,50,000 for campaign architecture, pixel setup, audience
+seeding, and platform account configuration.
+
+LINE ITEM 7: Kids Advertising & Claims Compliance
+---------------------------------------------------
+MediaPro Solutions does not offer regulatory compliance services.
+
+ASCI Kids Advertising Code review, FSSAI health claims validation, and platform
+policy compliance (YouTube Kids, Meta under-13) are specialised regulatory areas.
+We are a media agency — this is not our domain.
+
+We recommend engaging a specialist regulatory consultant for this workstream. We are
+happy to provide referrals if helpful.
+
+LINE ITEM 8: Launch Program Management
+----------------------------------------
+We provide account management, not formal project management.
+
+Our account management model:
+- Dedicated account manager (Priya Varma) as single point of contact
+- Fortnightly review calls
+- Shared reporting dashboard accessible to client team at all times
+
+Formal project management, RACI matrices, steering committees, and cross-agency
+coordination are outside our standard offering.
+
+================================================================================
+COMMERCIAL PROPOSAL
+================================================================================
+
+Line Item | Description                             | Cost (INR, excl. GST)
+----------|-----------------------------------------|----------------------
+1         | Digital Strategy (limited scope)        | 8,00,000
+2         | TVC Development                         | NOT IN SCOPE
+3         | TVC Production                          | NOT IN SCOPE
+4         | Social Organic Content (limited)        | 22,00,000
+5         | Paid Media Planning                     | 18,00,000
+6         | Paid Media Management (6 months)        | 72,00,000
+6a        | One-time Campaign Setup Fee             | 3,50,000
+7         | Kids Compliance Review                  | NOT IN SCOPE
+8         | Account Management                      | INCLUDED IN LINE 6
+TOTAL     |                                         | 1,23,50,000
+
+Note: This proposal covers MediaPro's in-scope services only. Line Items 2, 3, and 7
+require separate vendor engagement. Line Item 4 is limited to static/graphic formats.
+
+Media buying budget (client direct expense to platforms) is separate from this
+proposal. Recommended budget: INR 60L-1.2Cr per month.
+
+GST: 18% applicable on all services
+Payment Terms: 60% advance on PO; 40% on campaign activation (Week 8)
+Validity: 30 days from submission date
+
+Important commercial note: Our proposal validity is 30 days given current platform
+rate fluctuations. Pricing for media management may need to be revised after 30 days.
+
+================================================================================
+PROJECT TIMELINE
+================================================================================
+
+MediaPro scope only:
+
+Phase   | Deliverable                              | Timeline
+--------|------------------------------------------|------------------
+Phase 1 | Onboarding, account setup, brief         | Weeks 1-2
+Phase 2 | Paid media strategy delivery             | Weeks 3-4
+Phase 3 | Campaign architecture and setup          | Weeks 5-7
+Phase 4 | Campaign launch — paid media live        | Week 8
+Phase 5 | Ongoing management and optimisation      | Weeks 8-32
+
+Social content (LI4): Can begin in Week 3 in parallel with media planning.
+
+Note: Overall campaign timeline is dependent on creative and TVC readiness from
+whichever agency handles LI1, LI2, LI3. We cannot be held accountable for campaign
+delays attributable to creative delivery.
+
+================================================================================
+OUR TEAM
+================================================================================
+
+Role                        | Name           | Experience
+----------------------------|----------------|--------------------------------
+Account Director            | Varun Mehta    | 10 years; ex-GroupM
+Paid Media Strategy Lead    | Ritu Agarwal   | 8 years; FMCG specialist
+Performance Manager         | Deepak Rao     | 6 years; Meta & Google certified
+Social Content Manager      | Priya Varma    | 5 years
+Analytics & Reporting Lead  | Sandeep Nair   | 7 years; Looker Studio, GA4
+
+================================================================================
+VENDOR QUESTIONNAIRE RESPONSES
+================================================================================
+
+Q1. 9 years
+Q2. Parle Products, Haldirams, Mamaearth, Wow Skin Science, boAt
+Q3. Limited — our FMCG experience is primarily adult-targeted. Kids advertising
+    is a new category for us.
+Q4. We follow platform guidelines for age-appropriate targeting. Formal ASCI
+    compliance review is not our service area.
+Q5. Media buying and digital production only. No traditional production.
+Q6. Google Marketing Platform certified (2024), Meta Business Partner (2023),
+    DV360 certified, Hotstar managed service partner.
+Q7. Details available on request.
+Q8. GSTIN available on request.
+Q9. SOC 2 Type I compliant. Data handling policy available on request.
+Q10. No sub-contracting for our in-scope services.
+Q11. No regulatory complaints on record.
+Q12. Not applicable — media management is ongoing, not deliverable-based.
+
+================================================================================
+
+Varun Mehta, Account Director | varun@mediaprosolutions.in | +91 9900123456
+
+

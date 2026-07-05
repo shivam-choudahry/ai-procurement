@@ -1,0 +1,437 @@
+{
+  "comparison_id": "CMP-2026-NKL-001",
+  "comparison_timestamp": "2026-07-03T00:00:00Z",
+  "vendors_compared": [
+    "V001",
+    "V002",
+    "V003"
+  ],
+  "rfq_reference": "RFQ-MKT-2026-NKL-001",
+  "dimension_scores": {
+    "scope_coverage": {
+      "description": "How completely each vendor covers all 8 RFQ line items",
+      "scores": {
+        "V001": {
+          "score": 5,
+          "rationale": "Highest extracted scope coverage score (88) with one explicit gap: English TVC only as adaptation, not independently developed.",
+          "key_gaps": [
+            "English TVC independently developed (adaptation only)"
+          ]
+        },
+        "V002": {
+          "score": 2,
+          "rationale": "Lowest extracted scope coverage score (62). Major uncovered items include broadcast TVC production being TBD and formal ASCI/FSSAI compliance review not covered.",
+          "key_gaps": [
+            "Broadcast TVC production (TBD)",
+            "Formal ASCI/FSSAI compliance review"
+          ]
+        },
+        "V003": {
+          "score": 4,
+          "rationale": "Moderate-to-strong extracted scope coverage score (75), but English TVC is at extra cost and independent compliance reviewer is not named.",
+          "key_gaps": [
+            "English TVC (extra cost)",
+            "Independent compliance reviewer not named"
+          ]
+        }
+      },
+      "winner": "V001",
+      "comparability_note": "Comparable at a high level because all three vendors have extracted scope coverage scores and explicit uncovered items. However, exact mapping to all 8 RFQ line items is not provided in the extraction, so comparison is directional rather than line-by-line."
+    },
+    "pricing_clarity": {
+      "description": "How clear, complete, and comparable the pricing is",
+      "scores": {
+        "V001": {
+          "score": 5,
+          "rationale": "Pricing is present, in INR, excludes GST, and passes consistency check with itemized total matching stated total.",
+          "key_gaps": []
+        },
+        "V002": {
+          "score": 2,
+          "rationale": "Pricing is only partial. Total is stated, but some influencer fees are quoted in USD, creating currency inconsistency and reducing comparability.",
+          "key_gaps": [
+            "Influencer fees quoted in USD",
+            "Pricing status is partial"
+          ]
+        },
+        "V003": {
+          "score": 1,
+          "rationale": "Pricing is conflicting. Stated total (INR 3.90Cr) does not match itemized total (INR 3.64Cr), leaving INR 26L unexplained.",
+          "key_gaps": [
+            "INR 26L discrepancy between stated and itemized totals",
+            "Pricing status is conflicting"
+          ]
+        }
+      },
+      "total_costs": {
+        "V001": {
+          "comparable_total": "INR 4,20,00,000",
+          "note": "Stated total in INR, excludes GST, consistency check PASS."
+        },
+        "V002": {
+          "comparable_total": "INCOMPLETE",
+          "note": "NOT COMPARABLE — total stated as INR 1,75,00,000 but some influencer fees are in USD and pricing status is partial."
+        },
+        "V003": {
+          "comparable_total": "INCOMPLETE",
+          "note": "NOT COMPARABLE — stated total INR 3,90,00,000 conflicts with itemized total INR 3,64,00,000; INR 26L unexplained."
+        }
+      },
+      "winner": "CANNOT DETERMINE — pricing not comparable",
+      "comparability_note": "NOT COMPARABLE — only V001 has internally consistent pricing. V002 has mixed-currency partial pricing, and V003 has a material discrepancy between stated and itemized totals."
+    },
+    "commercial_completeness": {
+      "description": "Completeness of payment terms, validity, assumptions, exclusions",
+      "scores": {
+        "V001": {
+          "score": "N/A",
+          "rationale": "No extracted data provided on payment terms, proposal validity, assumptions, or exclusions beyond GST treatment.",
+          "key_gaps": [
+            "Payment terms not extracted",
+            "Validity not extracted",
+            "Assumptions not extracted",
+            "Exclusions not extracted"
+          ]
+        },
+        "V002": {
+          "score": "N/A",
+          "rationale": "No extracted data provided on payment terms, proposal validity, assumptions, or exclusions beyond partial pricing status.",
+          "key_gaps": [
+            "Payment terms not extracted",
+            "Validity not extracted",
+            "Assumptions not extracted",
+            "Exclusions not extracted"
+          ]
+        },
+        "V003": {
+          "score": "N/A",
+          "rationale": "No extracted data provided on payment terms, proposal validity, assumptions, or exclusions beyond pricing conflict.",
+          "key_gaps": [
+            "Payment terms not extracted",
+            "Validity not extracted",
+            "Assumptions not extracted",
+            "Exclusions not extracted"
+          ]
+        }
+      },
+      "winner": "CANNOT DETERMINE",
+      "comparability_note": "NOT COMPARABLE — the extraction does not include the commercial terms needed to assess this dimension for any vendor."
+    },
+    "timeline_quality": {
+      "description": "Realism, clarity, and detail of proposed timelines",
+      "scores": {
+        "V001": {
+          "score": 5,
+          "rationale": "Timeline is present as 52 weeks with consistency check PASS. This is the clearest and most internally consistent timeline among the three.",
+          "key_gaps": []
+        },
+        "V002": {
+          "score": 2,
+          "rationale": "Timeline is only partial: 10-12 weeks for digital, while TVC timing is TBD. Consistency is unknown.",
+          "key_gaps": [
+            "TVC timeline TBD",
+            "Consistency check unknown"
+          ]
+        },
+        "V003": {
+          "score": 1,
+          "rationale": "Timeline is conflicting: 6-8 weeks claimed versus 15-16 weeks in the detailed plan, with consistency check FAIL.",
+          "key_gaps": [
+            "Claimed timeline conflicts with detailed plan"
+          ]
+        }
+      },
+      "winner": "V001",
+      "comparability_note": "Comparable on clarity and internal consistency because all vendors have some extracted timeline data. However, V002 is partial and V003 is conflicting, so only V001 provides a stable basis for planning."
+    },
+    "compliance_quality": {
+      "description": "Depth and credibility of compliance coverage (ASCI, FSSAI, platforms)",
+      "scores": {
+        "V001": {
+          "score": 5,
+          "rationale": "Strongest compliance coverage. ASCI kids code and FSSAI health claims are both covered with high detail, including a named reviewer for ASCI.",
+          "key_gaps": []
+        },
+        "V002": {
+          "score": 1,
+          "rationale": "Weakest compliance position. ASCI support is only via recommendation of an external specialist, and FSSAI health claims are not addressed.",
+          "key_gaps": [
+            "Formal ASCI/FSSAI compliance review uncovered",
+            "FSSAI health claims not addressed"
+          ]
+        },
+        "V003": {
+          "score": 2,
+          "rationale": "Compliance is mentioned but lacks credibility detail. ASCI compliance is claimed without process detail or named reviewer; FSSAI is only mentioned in passing.",
+          "key_gaps": [
+            "No named independent compliance reviewer",
+            "No process detail for ASCI compliance",
+            "FSSAI detail is low"
+          ]
+        }
+      },
+      "winner": "V001",
+      "comparability_note": "Comparable at a qualitative level because all vendors have extracted ASCI/FSSAI fields. V001 is materially stronger based on detail and named accountability; V002 and V003 have partial or missing coverage."
+    },
+    "risk_level": {
+      "description": "Overall risk profile based on gaps, conflicts, and assumptions",
+      "scores": {
+        "V001": {
+          "score": 4,
+          "rationale": "Lower relative risk due to high data quality, consistent pricing, consistent timeline, and strong compliance coverage. Main risk is incomplete English TVC scope.",
+          "key_gaps": [
+            "English TVC independently developed not covered"
+          ]
+        },
+        "V002": {
+          "score": 1,
+          "rationale": "Highest risk due to low data quality, partial pricing with mixed currencies, incomplete scope, missing FSSAI coverage, and incomplete timeline.",
+          "key_gaps": [
+            "Broadcast TVC production TBD",
+            "Formal compliance review not covered",
+            "Mixed-currency pricing",
+            "TVC timeline TBD"
+          ]
+        },
+        "V003": {
+          "score": 2,
+          "rationale": "High risk due to pricing conflict, timeline conflict, and weak compliance detail. Scope is stronger than V002 but still has important commercial and compliance ambiguities.",
+          "key_gaps": [
+            "INR 26L pricing discrepancy",
+            "Timeline inconsistency",
+            "English TVC extra cost",
+            "Compliance reviewer not named"
+          ]
+        }
+      },
+      "note": "Lower score = higher risk"
+    }
+  },
+  "key_differentiators": [
+    {
+      "dimension": "Scope coverage",
+      "finding": "V001 has the highest extracted coverage score (88), V003 is mid-range (75), and V002 is materially lower (62) with broadcast TVC still TBD.",
+      "vendors_affected": [
+        "V001",
+        "V002",
+        "V003"
+      ],
+      "buyer_implication": "If full RFQ coverage is required without major add-ons or TBD items, V002 currently presents the largest scope completion risk."
+    },
+    {
+      "dimension": "Pricing clarity",
+      "finding": "Only V001 has internally consistent pricing. V002 has mixed-currency partial pricing, and V003 has a stated-versus-itemized mismatch of INR 26L.",
+      "vendors_affected": [
+        "V001",
+        "V002",
+        "V003"
+      ],
+      "buyer_implication": "Commercial evaluation cannot be finalized until V002 and V003 submit corrected, normalized totals."
+    },
+    {
+      "dimension": "Timeline quality",
+      "finding": "V001 provides a consistent 52-week timeline; V002 provides only a digital timeline with TVC TBD; V003 has a direct conflict between headline and detailed schedule.",
+      "vendors_affected": [
+        "V001",
+        "V002",
+        "V003"
+      ],
+      "buyer_implication": "Delivery planning and launch readiness cannot be compared reliably across vendors without timeline clarification from V002 and V003."
+    },
+    {
+      "dimension": "Compliance quality",
+      "finding": "V001 is the only vendor with high-detail compliance coverage and a named ASCI reviewer. V002 lacks FSSAI coverage, and V003 provides only low-detail claims.",
+      "vendors_affected": [
+        "V001",
+        "V002",
+        "V003"
+      ],
+      "buyer_implication": "For a kids/nutrition brand launch, compliance assurance is a major decision point; current compliance comparability favors only one vendor having substantiated coverage."
+    },
+    {
+      "dimension": "Data quality",
+      "finding": "Overall extracted data quality is HIGH for V001, LOW for V002, and MEDIUM for V003.",
+      "vendors_affected": [
+        "V001",
+        "V002",
+        "V003"
+      ],
+      "buyer_implication": "Lower data quality increases clarification burden and procurement risk, especially where pricing and timeline decisions depend on complete, internally consistent submissions."
+    }
+  ],
+  "cannot_compare_because": [
+    {
+      "area": "Total commercial cost",
+      "reason": "NOT COMPARABLE — V002 pricing is partial and includes USD-denominated items, while V003 pricing contains an unexplained INR 26L discrepancy.",
+      "vendors_affected": [
+        "V002",
+        "V003"
+      ],
+      "resolution": "Ask both vendors for a corrected all-inclusive INR commercial summary with itemized totals reconciled and currency conversions fixed."
+    },
+    {
+      "area": "Commercial completeness",
+      "reason": "NOT COMPARABLE — no extracted data is available for payment terms, validity, assumptions, or exclusions for any vendor.",
+      "vendors_affected": [
+        "V001",
+        "V002",
+        "V003"
+      ],
+      "resolution": "Request a standard commercial terms sheet from all vendors covering payment milestones, quote validity, assumptions, exclusions, and change-order basis."
+    },
+    {
+      "area": "End-to-end delivery timeline",
+      "reason": "NOT COMPARABLE — V002 has only a partial digital timeline with TVC TBD, and V003 has conflicting timeline statements.",
+      "vendors_affected": [
+        "V002",
+        "V003"
+      ],
+      "resolution": "Request milestone-based integrated schedules from brief approval through production, compliance review, and launch."
+    },
+    {
+      "area": "Compliance assurance depth",
+      "reason": "NOT COMPARABLE — V001 provides named and detailed compliance coverage, while V002 and V003 provide only partial or low-detail statements.",
+      "vendors_affected": [
+        "V001",
+        "V002",
+        "V003"
+      ],
+      "resolution": "Ask all vendors to submit their compliance workflow, reviewer credentials, approval checkpoints, and responsibility split for ASCI/FSSAI review."
+    }
+  ],
+  "critical_conflicts_detected": [
+    {
+      "vendor": "V003",
+      "conflict": "Stated total INR 3,90,00,000 vs itemized total INR 3,64,00,000.",
+      "impact": "Commercial evaluation is unreliable because INR 26L is unexplained.",
+      "recommended_action": "Require a corrected commercial sheet reconciling all line items to the final total before any price comparison."
+    },
+    {
+      "vendor": "V003",
+      "conflict": "Timeline claimed as 6-8 weeks vs detailed plan showing 15-16 weeks.",
+      "impact": "Delivery feasibility and launch planning cannot be trusted as currently submitted.",
+      "recommended_action": "Require a single reconciled project plan with milestone dates and dependencies."
+    },
+    {
+      "vendor": "V002",
+      "conflict": "Pricing mixes INR total with some USD influencer fee items.",
+      "impact": "True total cost exposure is unclear and may vary with conversion assumptions.",
+      "recommended_action": "Require all pricing to be normalized into INR with conversion basis and final rolled-up total."
+    }
+  ],
+  "buyer_attention_points": [
+    {
+      "priority": "HIGH",
+      "point": "Do not compare vendor totals as final commercial bids yet.",
+      "vendor": "ALL",
+      "action_required": "Obtain normalized, internally consistent pricing from V002 and V003 before any cost ranking."
+    },
+    {
+      "priority": "HIGH",
+      "point": "Compliance coverage is materially uneven across vendors.",
+      "vendor": "ALL",
+      "action_required": "Confirm whether named internal/external compliance review is mandatory for award, especially for ASCI kids code and FSSAI health claims."
+    },
+    {
+      "priority": "HIGH",
+      "point": "V002 has major scope incompleteness, including broadcast TVC production being TBD.",
+      "vendor": "V002",
+      "action_required": "Ask for a confirmed scope matrix against all RFQ line items and identify what is included, excluded, or subcontracted."
+    },
+    {
+      "priority": "HIGH",
+      "point": "V003 has both pricing and timeline conflicts.",
+      "vendor": "V003",
+      "action_required": "Treat submission as commercially and operationally unresolved until corrected documents are received."
+    },
+    {
+      "priority": "MEDIUM",
+      "point": "V001 appears strongest on consistency and compliance, but English TVC independent development is not covered.",
+      "vendor": "V001",
+      "action_required": "Clarify whether this gap is acceptable or requires a priced add-on / alternate delivery approach."
+    },
+    {
+      "priority": "MEDIUM",
+      "point": "Commercial terms cannot be assessed for any vendor from the extracted data.",
+      "vendor": "ALL",
+      "action_required": "Request payment terms, validity period, assumptions, exclusions, and revision/change-order policy in a standard template."
+    }
+  ],
+  "clarification_questions_per_vendor": {
+    "V001": [
+      "Please confirm whether English TVC independent development is excluded entirely or available as an additional scope.",
+      "Please provide a line-by-line RFQ coverage matrix for all 8 items, including any assumptions or exclusions.",
+      "Please share payment terms, proposal validity, assumptions, and exclusions not captured in the current extraction.",
+      "Please confirm whether the 52-week timeline includes all approvals, production, compliance review, and launch support milestones."
+    ],
+    "V002": [
+      "Please confirm whether broadcast TVC production is included, excluded, or subcontracted, and provide final scope details.",
+      "Please provide a complete ASCI/FSSAI compliance approach, including whether review is included in your fee or requires a separate external specialist.",
+      "Please resubmit pricing fully in INR, including all influencer fees and the conversion basis used.",
+      "Please provide a complete end-to-end timeline including TVC production and compliance review milestones.",
+      "Please share payment terms, proposal validity, assumptions, and exclusions."
+    ],
+    "V003": [
+      "Please reconcile the stated total of INR 3,90,00,000 with the itemized total of INR 3,64,00,000 and explain the INR 26L difference.",
+      "Please confirm the actual project duration and reconcile the 6-8 week claim with the 15-16 week detailed plan.",
+      "Please clarify whether English TVC is included in base scope or only available at extra cost, and provide the add-on amount if applicable.",
+      "Please identify the compliance reviewer/process for ASCI and FSSAI review, including whether an independent reviewer is included.",
+      "Please share payment terms, proposal validity, assumptions, and exclusions."
+    ]
+  },
+  "overall_risk_summary": {
+    "V001": {
+      "risk_level": "LOW",
+      "top_risks": [
+        "English TVC independently developed is not covered",
+        "Commercial terms beyond price/GST are not available in extraction"
+      ],
+      "missing_before_decision": [
+        "Confirmation of treatment for English TVC gap",
+        "Payment terms, validity, assumptions, exclusions",
+        "Detailed RFQ line-item mapping"
+      ]
+    },
+    "V002": {
+      "risk_level": "HIGH",
+      "top_risks": [
+        "Broadcast TVC production is TBD",
+        "Formal ASCI/FSSAI compliance review is not covered",
+        "Pricing is partial and mixed-currency",
+        "Timeline is incomplete with TVC TBD",
+        "Overall extracted data quality is LOW"
+      ],
+      "missing_before_decision": [
+        "Complete scope confirmation against all RFQ items",
+        "Normalized INR pricing",
+        "Full compliance plan",
+        "Integrated project timeline",
+        "Commercial terms"
+      ]
+    },
+    "V003": {
+      "risk_level": "HIGH",
+      "top_risks": [
+        "INR 26L pricing discrepancy",
+        "Conflicting timeline statements",
+        "English TVC requires extra cost",
+        "Compliance claims lack named reviewer and process detail"
+      ],
+      "missing_before_decision": [
+        "Corrected commercial total",
+        "Reconciled project schedule",
+        "Clarified English TVC pricing/scope",
+        "Detailed compliance workflow and reviewer details",
+        "Commercial terms"
+      ]
+    }
+  },
+  "comparison_limitations": [
+    "Comparison is limited strictly to the extracted data provided; no source proposals or external validation were available.",
+    "Commercial completeness could not be scored because payment terms, validity, assumptions, and exclusions were not extracted for any vendor.",
+    "Scope comparison is based on overall coverage scores and listed uncovered items, not a full line-by-line RFQ compliance matrix.",
+    "Pricing comparison is not fully possible because V002 has mixed-currency partial pricing and V003 has conflicting totals.",
+    "Timeline comparison is constrained because V002 is partial and V003 is internally inconsistent.",
+    "No recommendation is made; this output is intended to surface comparability, risks, and required clarifications."
+  ]
+}

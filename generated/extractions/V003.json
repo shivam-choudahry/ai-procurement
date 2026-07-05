@@ -1,0 +1,432 @@
+{
+  "vendor_id": "V003",
+  "vendor_name": "Brandsmith Group",
+  "extraction_timestamp": "2026-07-03T00:00:00Z",
+  "scope_coverage": {
+    "line_items": [
+      {
+        "id": 1,
+        "name": "Strategy and creative development",
+        "covered": true,
+        "detail": "Full brand strategy, creative platform development, 3 campaign concept routes, and final creative direction; secondary research synthesis included, primary research additional.",
+        "status": "present",
+        "evidence": "LINE ITEM 1: Brand Strategy & Creative Development — INR 40,00,000\nFull brand strategy, creative platform development, 3 campaign concept routes, and\nfinal creative direction. Includes synthesis of provided secondary research; primary\nconsumer research (if needed) would be additional.",
+        "flags": [
+          "Primary consumer research excluded/additional cost"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "TVC development",
+        "covered": "partial",
+        "detail": "Hindi TVC development covered for 2 x 30-second scripts and 2 x 10-second cutdowns; English versions additional cost.",
+        "status": "partial",
+        "evidence": "LINE ITEM 2: TVC Development — INR 32,00,000\nScript, storyboard, and animatic for:\n- 2 x 30-second TVC scripts (Hindi)\n- 2 x 10-second cutdown scripts (Hindi)\n\nEnglish language TVC versions are available at an additional cost of INR 8,00,000.",
+        "flags": [
+          "Hindi only in base scope",
+          "English TVC development additional cost"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "TVC production",
+        "covered": "partial",
+        "detail": "Hindi TVC production covered including casting, location, direction, post-production, and broadcast delivery; out-of-Mumbai travel/accommodation excluded at actuals.",
+        "status": "partial",
+        "evidence": "LINE ITEM 3: TVC Production — INR 1,60,00,000\nFull production:\n- 2 x 30-second TVCs (Hindi) + 2 x 10-second cutdowns\n- Casting, location, direction, post-production\n- Broadcast delivery formats\n\nNote: Travel and accommodation for crew required outside Mumbai are charged at actuals\nand are not included in the above cost.",
+        "flags": [
+          "Hindi only in base scope",
+          "Out-of-Mumbai travel/accommodation excluded at actuals"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Social organic content",
+        "covered": "partial",
+        "detail": "Vendor proposes 45 posts/month for 6 months instead of RFQ-requested 60 posts/month; includes content calendar, approval workflow, and 8 nano/micro influencer collaborations per month, but micro-influencer fees above INR 5,000/post are additional.",
+        "status": "partial",
+        "evidence": "LINE ITEM 4: Social Organic Content — INR 60,00,000\n- 45 posts/month for 6 months across Instagram (20/month), Facebook (15/month),\n  YouTube (10/month)\n- Content calendar and client approval workflow\n- 8 nano/micro influencer collaborations per month\n\nOn volume: We are recommending 45 posts/month rather than 60.\n\nInfluencer fees: Included for nano-influencers only (posts valued up to INR 5,000\nper post). Micro-influencer fees (INR 5,000-50,000 per post) are additional and\nbilled at actuals.",
+        "flags": [
+          "Does not meet RFQ requested 60 posts/month",
+          "Micro-influencer fees additional at actuals"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Social paid media planning",
+        "covered": true,
+        "detail": "Comprehensive paid media strategy, platform selection, audience framework, budget model, and KPI plan.",
+        "status": "present",
+        "evidence": "LINE ITEM 5: Social Paid Media Planning — INR 15,00,000\nComprehensive paid media strategy, platform selection, audience framework, budget\nmodel, and KPI plan.",
+        "flags": []
+      },
+      {
+        "id": 6,
+        "name": "Social paid media buying and optimization",
+        "covered": true,
+        "detail": "Paid media management fee stated separately for 6 months including setup, daily management, weekly reporting, and monthly review; media budget excluded as client direct expense.",
+        "status": "conflicting",
+        "evidence": "LINE ITEM 6: Social Paid Media Buying & Optimization\nWe offer end-to-end paid media management. Given that this is included in our\nall-inclusive package, the paid media buying and optimization service is part of our\nintegrated offering to NourishPlus.\n\nOn reflection, for a 6-month campaign at the expected scale, dedicated paid media\nresources require separate allocation. Please note the paid media management fee below:\n\nPaid Media Management Fee: INR 35,00,000\n(6 months; campaign setup, daily management, weekly reporting, monthly review)",
+        "flags": [
+          "Conflicting statement on whether included in all-inclusive package or separately allocated",
+          "Media buying budget excluded as client direct expense"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Kids advertising and claims compliance review",
+        "covered": "partial",
+        "detail": "ASCI compliance and internal review process stated; nutrition and health claims alignment stated. FSSAI is not explicitly named.",
+        "status": "partial",
+        "evidence": "LINE ITEM 7: Kids Advertising & Claims Compliance — INR 12,00,000\nBrandsmith is ASCI compliant. Our creatives are always designed with regulatory\nguidelines in mind. We have an internal review process for all advertising claims and\nensure all content is appropriate for the target audience.\n\nWe also ensure all nutrition and health claims in our creative work are aligned with\napplicable regulations before submission for production.",
+        "flags": [
+          "FSSAI not explicitly referenced",
+          "No named compliance reviewer"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Launch program management",
+        "covered": true,
+        "detail": "Dedicated project coordinator, weekly status reports, and risk management/escalation included.",
+        "status": "present",
+        "evidence": "LINE ITEM 8: Launch Program Management — INR 10,00,000\n- Dedicated project coordinator\n- Weekly status reports\n- Risk management and escalation",
+        "flags": []
+      }
+    ],
+    "overall_coverage_score": "81",
+    "uncovered_items": []
+  },
+  "pricing": {
+    "total_stated": "INR 3,90,00,000",
+    "currency": "INR",
+    "includes_gst": false,
+    "itemized": [
+      {
+        "item": "Brand Strategy & Creative",
+        "cost": "40,00,000",
+        "status": "present"
+      },
+      {
+        "item": "TVC Development (Hindi only)",
+        "cost": "32,00,000",
+        "status": "present"
+      },
+      {
+        "item": "TVC Production (Hindi only)",
+        "cost": "1,60,00,000",
+        "status": "present"
+      },
+      {
+        "item": "Social Organic Content (45 posts)",
+        "cost": "60,00,000",
+        "status": "present"
+      },
+      {
+        "item": "Paid Media Planning",
+        "cost": "15,00,000",
+        "status": "present"
+      },
+      {
+        "item": "Paid Media Buying & Optimization",
+        "cost": "35,00,000",
+        "status": "present"
+      },
+      {
+        "item": "Kids Compliance Review",
+        "cost": "12,00,000",
+        "status": "present"
+      },
+      {
+        "item": "Program Management",
+        "cost": "10,00,000",
+        "status": "present"
+      }
+    ],
+    "itemized_total": "3,64,00,000",
+    "consistency_check": "PARTIAL",
+    "consistency_note": "The itemized total of INR 3,64,00,000 does not equal the stated total investment of INR 3,90,00,000 unless the separately disclosed contingency reserve and project infrastructure costs of INR 26,00,000 are added. Pricing is also affected by exclusions and a conflict in line item 6 inclusion wording.",
+    "status": "partial",
+    "evidence": "Our proposed investment for the complete NourishKids campaign:\nINR 3,90,00,000 (Three Crore Ninety Lakhs Only)\n\nITEMIZED TOTAL |                               | 3,64,00,000\n\nTOTAL INVESTMENT: INR 3,90,00,000\n\nThe total of INR 3,90,00,000 as stated in our executive summary includes a contingency\nreserve and project infrastructure costs of INR 26,00,000 which are not broken out as\nseparate line items above.\n\nGST: 18% applicable on all services",
+    "flags": [
+      "Total includes INR 26,00,000 contingency reserve and project infrastructure costs not broken out as line items",
+      "GST 18% applicable on all services, therefore not included in stated totals",
+      "Media buying budget excluded",
+      "English TVC development/production excluded from base pricing",
+      "Micro-influencer fees above INR 5,000/post excluded",
+      "Travel and accommodation outside Mumbai excluded at actuals",
+      "Primary consumer research excluded",
+      "Additional revision rounds billed at INR 1,00,000 per round",
+      "Line item 6 inclusion wording is conflicting"
+    ]
+  },
+  "commercial_terms": {
+    "payment_terms": {
+      "value": "40% advance, 30% at mid-campaign milestone, 30% at campaign completion",
+      "status": "present",
+      "evidence": "Payment Terms: 40% advance, 30% at mid-campaign milestone, 30% at campaign completion"
+    },
+    "proposal_validity": {
+      "value": "60 days from submission date",
+      "status": "present",
+      "evidence": "Date: 23 July 2026 | RFQ: RFQ-MKT-2026-NKL-001 | Validity: 60 days\n\nValidity: 60 days from submission date"
+    },
+    "gst_treatment": {
+      "value": "GST: 18% applicable on all services",
+      "status": "present",
+      "evidence": "GST: 18% applicable on all services"
+    },
+    "escalation_clause": {
+      "value": "Risk management and escalation included under launch program management",
+      "status": "partial",
+      "evidence": "LINE ITEM 8: Launch Program Management — INR 10,00,000\n- Dedicated project coordinator\n- Weekly status reports\n- Risk management and escalation"
+    },
+    "flags": [
+      "No detailed escalation procedure or SLA stated",
+      "Brand Guarantee terms not provided; available on request"
+    ]
+  },
+  "timeline": {
+    "proposed_kickoff": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "campaign_go_live": {
+      "value": "Social and digital activation live in 6-8 weeks from kickoff; full integrated campaign including TVC on-air in 15-16 weeks from kickoff",
+      "status": "conflicting",
+      "evidence": "We guarantee campaign go-live within 6-8 weeks of project kickoff.\n\nNourishKids will be live in 6-8 weeks from kickoff.\n\nPhase 9  | Campaign launch (social + digital)            | Week 15\nPhase 10 | TVC on-air + full campaign live               | Week 16\n\nNote: The 6-8 week reference in our executive summary refers to the social and digital\nactivation going live. The full integrated campaign including TVC on-air requires\n15-16 weeks from kickoff."
+    },
+    "total_duration": {
+      "value": "Weeks 16-52 ongoing optimisation, content, management",
+      "status": "partial",
+      "evidence": "Phase 11 | Ongoing optimisation, content, management     | Weeks 16-52"
+    },
+    "consistency_check": "FAIL",
+    "consistency_note": "The proposal states campaign go-live within 6-8 weeks, but the detailed timeline shows social + digital launch at Week 15 and full campaign live at Week 16. The note attempts to distinguish activation types, but the 6-8 week timing still conflicts with the phase table.",
+    "flags": [
+      "Go-live timing inconsistent between executive summary and detailed timeline",
+      "No explicit kickoff date provided"
+    ]
+  },
+  "team_and_experience": {
+    "key_personnel": [
+      {
+        "role": "Account Director",
+        "name": "Manoj Kumar",
+        "experience": null
+      },
+      {
+        "role": "Senior Creative Director",
+        "name": "Divya Sharma",
+        "experience": null
+      },
+      {
+        "role": "Senior Strategist",
+        "name": "Kiran Mehta",
+        "experience": null
+      },
+      {
+        "role": "TVC Director",
+        "name": "TBD (partner director)",
+        "experience": null
+      },
+      {
+        "role": "Post-Production Lead",
+        "name": "Suresh Iyer",
+        "experience": null
+      },
+      {
+        "role": "Social Media Manager",
+        "name": "Rahul Gupta",
+        "experience": null
+      },
+      {
+        "role": "Performance Marketing Lead",
+        "name": "Anita Singh",
+        "experience": null
+      },
+      {
+        "role": "Project Coordinator",
+        "name": "Sunita Rao",
+        "experience": null
+      }
+    ],
+    "team_size_claimed": {
+      "value": "15 specialists",
+      "status": "present",
+      "evidence": "We will assign a dedicated team of 15 specialists to the NourishKids account."
+    },
+    "kids_category_experience": {
+      "value": "Experience communicating to family audience including children; no direct kids brand launch example explicitly stated",
+      "status": "partial",
+      "evidence": "Q3. Yes — Haldirams snack campaigns target families including children. We have\n    experience communicating to the family audience."
+    },
+    "relevant_clients": [
+      "ITC Foods (Bingo)",
+      "Haldirams (Snacks)",
+      "Paper Boat (brand campaign)",
+      "Marico (Livon)",
+      "Voltas (cooling)"
+    ],
+    "flags": [
+      "Individual personnel experience not stated",
+      "TVC Director is TBD and from partner network",
+      "Some production crew from partner network"
+    ]
+  },
+  "compliance": {
+    "asci_kids_code": {
+      "value": "ASCI compliant; internal review process; awareness of ASCI code including guidelines relevant to children",
+      "status": "present",
+      "evidence": "Brandsmith Group is ASCI compliant. All our advertising is created with full awareness\nof the ASCI code, including guidelines relevant to children. Our internal review process\nensures every piece of communication meets regulatory standards before it goes to the\nclient for approval.",
+      "detail_level": "medium"
+    },
+    "fssai_health_claims": {
+      "value": "Nutrition and health claims aligned with applicable regulations before submission for production",
+      "status": "partial",
+      "evidence": "We also ensure all nutrition and health claims in our creative work are aligned with\napplicable regulations before submission for production.",
+      "detail_level": "low"
+    },
+    "platform_policies": {
+      "value": null,
+      "status": "missing",
+      "evidence": null
+    },
+    "compliance_reviewer_named": false,
+    "flags": [
+      "FSSAI not explicitly named despite RFQ requirement",
+      "No named compliance reviewer or legal/regulatory specialist",
+      "Compliance process described at high level only"
+    ]
+  },
+  "assumptions": {
+    "listed": [
+      "Includes synthesis of provided secondary research",
+      "Primary consumer research (if needed) would be additional",
+      "45 posts/month recommended rather than 60 based on platform algorithm changes in 2025",
+      "6-month campaign at the expected scale for paid media management fee",
+      "6-8 week reference applies to social and digital activation go-live"
+    ],
+    "status": "present",
+    "count": 5
+  },
+  "exclusions": {
+    "listed": [
+      "Media buying budget (client direct expense)",
+      "English TVC development and production (additional INR 8L + production cost adj. TBD)",
+      "Micro-influencer fees above INR 5,000/post",
+      "Travel and accommodation outside Mumbai (at actuals)",
+      "Primary consumer research"
+    ],
+    "hidden_costs_detected": [
+      "Contingency reserve and project infrastructure costs of INR 26,00,000 not broken out as separate line items",
+      "Additional revision rounds billed at INR 1,00,000 per round",
+      "Micro-influencer fees billed at actuals",
+      "Travel and accommodation outside Mumbai billed at actuals",
+      "English TVC production cost adjustment TBD",
+      "GST 18% applicable on all services"
+    ],
+    "status": "present"
+  },
+  "risks": [
+    {
+      "risk": "Social organic content volume is below RFQ requirement of 60 posts/month.",
+      "severity": "high",
+      "category": "scope",
+      "evidence": "- 45 posts/month for 6 months across Instagram (20/month), Facebook (15/month),\n  YouTube (10/month)\n\nOn volume: We are recommending 45 posts/month rather than 60."
+    },
+    {
+      "risk": "Paid media buying and optimization pricing/inclusion is internally inconsistent.",
+      "severity": "high",
+      "category": "commercial",
+      "evidence": "Given that this is included in our all-inclusive package, the paid media buying and optimization service is part of our integrated offering to NourishPlus.\n\nOn reflection, for a 6-month campaign at the expected scale, dedicated paid media resources require separate allocation. Please note the paid media management fee below:\n\nPaid Media Management Fee: INR 35,00,000"
+    },
+    {
+      "risk": "Campaign go-live timeline is inconsistent between summary claims and detailed schedule.",
+      "severity": "high",
+      "category": "timeline",
+      "evidence": "We guarantee campaign go-live within 6-8 weeks of project kickoff.\n\nPhase 9  | Campaign launch (social + digital)            | Week 15\nPhase 10 | TVC on-air + full campaign live               | Week 16"
+    },
+    {
+      "risk": "FSSAI compliance is not explicitly stated although RFQ requires ASCI + FSSAI compliance review.",
+      "severity": "high",
+      "category": "compliance",
+      "evidence": "Brandsmith is ASCI compliant.\n\nWe also ensure all nutrition and health claims in our creative work are aligned with applicable regulations before submission for production."
+    },
+    {
+      "risk": "Several material costs are excluded or billed at actuals, increasing budget uncertainty.",
+      "severity": "medium",
+      "category": "commercial",
+      "evidence": "Exclusions:\n- Media buying budget (client direct expense)\n- English TVC development and production (additional INR 8L + production cost adj. TBD)\n- Micro-influencer fees above INR 5,000/post\n- Travel and accommodation outside Mumbai (at actuals)\n- Primary consumer research"
+    },
+    {
+      "risk": "TVC director is not named and is to be sourced from partner network.",
+      "severity": "medium",
+      "category": "team",
+      "evidence": "TVC Director               | TBD (partner director)\n\nQ10. TVC director and some production crew will be from partner network. All other\n     scope in-house."
+    },
+    {
+      "risk": "Contingency reserve and project infrastructure costs are included in total but not itemized, reducing price transparency.",
+      "severity": "medium",
+      "category": "commercial",
+      "evidence": "The total of INR 3,90,00,000 as stated in our executive summary includes a contingency\nreserve and project infrastructure costs of INR 26,00,000 which are not broken out as\nseparate line items above."
+    }
+  ],
+  "missing_info": [
+    "Explicit FSSAI compliance review statement",
+    "Named compliance reviewer/legal reviewer",
+    "Platform policy compliance approach",
+    "Proposed kickoff date",
+    "Individual team member experience/years",
+    "Detailed terms and conditions of Brand Guarantee",
+    "Financial details/revenue and profitability",
+    "GST registration details",
+    "Data protection certification details"
+  ],
+  "unclear_info": [
+    "Whether line item 6 is included in the all-inclusive package or separately charged",
+    "Whether 6-8 week go-live is achievable given the detailed phase plan",
+    "Extent of micro-influencer collaborations included within line item 4 because only nano-influencer fees are explicitly included",
+    "English TVC production cost beyond development fee is stated as TBD"
+  ],
+  "conflicting_info": [
+    {
+      "area": "Paid media buying and optimization pricing/inclusion",
+      "statement_1": "Given that this is included in our all-inclusive package, the paid media buying and optimization service is part of our integrated offering to NourishPlus.",
+      "statement_2": "On reflection, for a 6-month campaign at the expected scale, dedicated paid media resources require separate allocation. Please note the paid media management fee below:\n\nPaid Media Management Fee: INR 35,00,000",
+      "buyer_impact": "Unclear whether paid media management is already included in the total package or is an additional separately allocated fee."
+    },
+    {
+      "area": "Campaign go-live timeline",
+      "statement_1": "We guarantee campaign go-live within 6-8 weeks of project kickoff.",
+      "statement_2": "Phase 9  | Campaign launch (social + digital)            | Week 15\nPhase 10 | TVC on-air + full campaign live               | Week 16",
+      "buyer_impact": "Delivery planning and launch readiness are uncertain; vendor timeline commitment is not internally aligned."
+    }
+  ],
+  "overall_data_quality": "MEDIUM",
+  "buyer_flags": [
+    "Proposal does not fully meet RFQ social organic volume requirement",
+    "FSSAI compliance review not explicitly confirmed",
+    "Pricing transparency issue: INR 26,00,000 included in total but not itemized",
+    "Paid media management inclusion/pricing conflict requires resolution",
+    "Timeline conflict between 6-8 weeks and 15-16 weeks",
+    "Multiple exclusions and actuals-based costs may materially increase total spend",
+    "TVC director not yet named and partner-network dependency exists",
+    "Additional revision rounds are chargeable"
+  ],
+  "clarification_questions": [
+    "Please confirm whether line item 6 paid media buying and optimization is included in the total investment of INR 3,90,00,000 or is an additional fee.",
+    "Please reconcile the 6-8 week go-live claim with the detailed timeline showing launch at Week 15 and full campaign live at Week 16.",
+    "Can you confirm compliance coverage explicitly includes FSSAI review for kids advertising and nutrition/health claims?",
+    "Please provide a named compliance reviewer or regulatory lead for ASCI/FSSAI review.",
+    "Can you revise line item 4 to meet the RFQ requirement of 60 social organic posts per month, or clearly state the commercial impact of doing so?",
+    "Please break out the INR 26,00,000 contingency reserve and project infrastructure costs into itemized components.",
+    "Please confirm what portion of the 8 influencer collaborations per month is included in fee, given that only nano-influencer fees up to INR 5,000/post are included.",
+    "Please provide the estimated production cost adjustment for English TVCs, currently marked TBD.",
+    "Please confirm whether out-of-Mumbai shooting is anticipated and provide a budget estimate for travel and accommodation actuals.",
+    "Please provide the detailed terms and conditions of the Brand Guarantee Program.",
+    "Please confirm whether any platform-specific advertising policy review for children-focused campaigns is included.",
+    "Please identify the proposed TVC director and key partner-network production resources."
+  ]
+}
