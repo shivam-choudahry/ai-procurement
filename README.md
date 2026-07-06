@@ -1,6 +1,6 @@
 # RFQ AI Procurement Copilot
 
-> **Portfolio-quality multi-agent AI system for vendor evaluation.** Showcase-ready for AI Engineering interviews.
+> **Portfolio-quality multi-agent AI system for vendor evaluation.** 
 
 ---
 
