@@ -31,7 +31,7 @@
       │ UI Generation Agent                     │
       └─────────────────────────────────────────┘
                        │
-               OpenAI GPT-4o  ·  Pydantic V2 Structured Outputs
+               OpenAI GPT-5.4  ·  Pydantic V2 Structured Outputs
                        │
                Langfuse (LLM Observability — prompts, tokens, latency)
 ```
@@ -208,7 +208,7 @@ END
 | Frontend | Streamlit |
 | Backend | FastAPI + uvicorn |
 | Orchestration | LangGraph (StateGraph) |
-| LLM | OpenAI GPT-4o |
+| LLM | OpenAI GPT-5.4 |
 | LLM Observability | **Langfuse** (prompt traces, token usage, latency) |
 | Data validation | Pydantic V2 + pydantic-settings |
 | PDF parsing | pdfplumber (primary) + PyPDF2 (fallback) |
